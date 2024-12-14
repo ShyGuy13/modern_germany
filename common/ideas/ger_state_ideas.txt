@@ -1,0 +1,815 @@
+XBB_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XBB
+	}
+
+	athe_lone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	acowboys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	atexas_rangers = {
+		global_unrest = -1
+	}
+
+	aalamo = {
+		land_morale = 0.10
+	}
+
+	atx_space_industry = {
+		prestige = 1
+	}
+
+	ahigh_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	abigger_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XBE_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XBE
+	}
+
+	bthe_lone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	bcowboys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	btexas_rangers = {
+		global_unrest = -1
+	}
+
+	balamo = {
+		land_morale = 0.10
+	}
+
+	btx_space_industry = {
+		prestige = 1
+	}
+
+	hbigh_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	bbigger_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XBW_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XBW
+	}
+
+	cthe_lone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	ccowboys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	tcexas_rangers = {
+		global_unrest = -1
+	}
+
+	aclamo = {
+		land_morale = 0.10
+	}
+
+	tx_cspace_industry = {
+		prestige = 1
+	}
+
+	highc_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	bigcger_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XBY_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XBY
+	}
+
+	the_flone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowfboys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	tefxas_rangers = {
+		global_unrest = -1
+	}
+
+	alafmo = {
+		land_morale = 0.10
+	}
+
+	tx_fspace_industry = {
+		prestige = 1
+	}
+
+	higfh_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	bigger_fin_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XHB_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XHB
+	}
+
+	thec_lone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbcoys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texasc_rangers = {
+		global_unrest = -1
+	}
+
+	alamoc = {
+		land_morale = 0.10
+	}
+
+	tx_spacce_industry = {
+		prestige = 1
+	}
+
+	highc_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggcer_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XHE_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XHE
+	}
+
+	the_lovne_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbvoys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texasv_rangers = {
+		global_unrest = -1
+	}
+
+	alamvo = {
+		land_morale = 0.10
+	}
+
+	tx_spavce_industry = {
+		prestige = 1
+	}
+
+	high_tevch = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggerv_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XHH_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XHH
+	}
+
+	the_loqne_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowboqys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texasq_rangers = {
+		global_unrest = -1
+	}
+
+	alamqo = {
+		land_morale = 0.10
+	}
+
+	tx_spaqce_industry = {
+		prestige = 1
+	}
+
+	high_qtech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggerq_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XMW_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XMV
+	}
+
+	the_lowne_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowboyws = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texas_wrangers = {
+		global_unrest = -1
+	}
+
+	alamwo = {
+		land_morale = 0.10
+	}
+
+	tx_spwace_industry = {
+		prestige = 1
+	}
+
+	high_twech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggerw_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XNI_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XNI
+	}
+
+	ther_lone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbroys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texars_rangers = {
+		global_unrest = -1
+	}
+
+	alarmo = {
+		land_morale = 0.10
+	}
+
+	txr_space_industry = {
+		prestige = 1
+	}
+
+	hirgh_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggrer_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XNW_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XNW
+	}
+
+	the_ltone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbotys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texas_trangers = {
+		global_unrest = -1
+	}
+
+	alamto = {
+		land_morale = 0.10
+	}
+
+	tx_stpace_industry = {
+		prestige = 1
+	}
+
+	higth_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggert_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XRP_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XRP
+	}
+
+	the_lzone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbzoys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texas_zrangers = {
+		global_unrest = -1
+	}
+
+	alzamo = {
+		land_morale = 0.10
+	}
+
+	tx_spacez_industry = {
+		prestige = 1
+	}
+
+	highz_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggerz_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XSH_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XSH
+	}
+
+	the_lonue_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbouys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texasu_rangers = {
+		global_unrest = -1
+	}
+
+	aluamo = {
+		land_morale = 0.10
+	}
+
+	tx_supace_industry = {
+		prestige = 1
+	}
+
+	highu_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biguger_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XSL_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XSL
+	}
+
+	the_lione_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbioys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texasi_rangers = {
+		global_unrest = -1
+	}
+
+	alamio = {
+		land_morale = 0.10
+	}
+
+	tx_sipace_industry = {
+		prestige = 1
+	}
+
+	highi_tech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggeir_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XSN_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XSN
+	}
+
+	the_loneo_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbooys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texas_orangers = {
+		global_unrest = -1
+	}
+
+	alamoo = {
+		land_morale = 0.10
+	}
+
+	tx_space_oindustry = {
+		prestige = 1
+	}
+
+	high_otech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggero_in_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XST_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XST
+	}
+
+	the_plone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbopys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texas_rapngers = {
+		global_unrest = -1
+	}
+
+	alapmo = {
+		land_morale = 0.10
+	}
+
+	tx_sppace_industry = {
+		prestige = 1
+	}
+
+	high_tpech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	biggerp_inp_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}
+
+XTH_ideas = {
+	free = yes
+	start = {
+		governing_capacity = 100
+	}
+
+	bonus = {
+		war_exhaustion = -0.05                  
+	}
+
+	trigger = {
+		tag = XTH
+	}
+
+	the_kjlone_star = {
+		yearly_absolutism = 0.5
+		republican_tradition = 0.25
+		legitimacy = 0.5
+		horde_unity = 0.5
+		meritocracy = 0.5
+		devotion = 0.5
+	}
+
+	cowbokjys = {
+		cavalry_cost = -0.10
+        cavalry_fire = 1
+	}
+
+	texaskjrangers = {
+		global_unrest = -1
+	}
+
+	alakjmo = {
+		land_morale = 0.10
+	}
+
+	txkj_space_industry = {
+		prestige = 1
+	}
+
+	high_kjtech = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.1
+	}
+
+	bigger_kjin_texas = {
+		core_creation = -0.2
+        governing_capacity_modifier = 0.1
+	}
+}

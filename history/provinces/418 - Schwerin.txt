@@ -1,0 +1,16 @@
+add_core = XMV
+owner = XMV
+controller = XMV
+discovered_by = western
+capital = "Schwerin"
+base_tax = 1
+base_production = 1
+base_manpower = 1
+religion = protestant
+culture = culture_north_german
+trade_goods = fish
+hre = no
+native_size = 30
+native_ferocity = 5
+native_hostileness = 3
+is_city = yes

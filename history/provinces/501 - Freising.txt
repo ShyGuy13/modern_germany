@@ -1,0 +1,16 @@
+add_core = XBY
+owner = XBY
+controller = XBY
+discovered_by = western
+capital = "Freising"
+base_tax = 2
+base_production = 2
+base_manpower = 2
+religion = catholic
+culture = culture_north_german
+trade_goods = grain
+hre = no
+native_size = 30
+native_ferocity = 5
+native_hostileness = 3
+is_city = yes

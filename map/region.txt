@@ -1,0 +1,148 @@
+region_by = {
+	areas = {
+		area_swabia_south
+		area_swabia_central
+		area_swabia_north
+		area_upper_bavaria_south
+		area_upper_bavaria_east
+		area_upper_bavaria_west
+		area_upper_bavaria_north
+		area_upper_bavaria_central
+		area_lower_bavaria_east
+		area_lower_bavaria_west
+		area_upper_palatinate_east
+		area_upper_palatinate_west
+		area_central_franconia_east
+		area_central_franconia_west
+		area_lower_franconia_east
+		area_lower_franconia_west
+		area_upper_franconia_east
+		area_upper_franconia_west
+	}
+}
+
+region_bw = {
+	areas = {
+		area_freiburg_south
+		area_freiburg_north
+		area_tubingen_south
+		area_tubingen_north
+		area_karlsruhe_south
+		area_karlsruhe_north
+		area_karlsruhe_central
+		area_stuttgart_central
+		area_stuttgart_east
+		area_stuttgart_north
+	}
+}
+
+region_he = {
+	areas = {
+		area_darmstadt_east
+		area_darmstadt_west
+		area_darmstadt_south
+		area_giessen
+		area_kassel
+	}
+}
+
+region_rp = {
+	areas = {
+		area_palatinate_south
+		area_palatinate_east
+		area_palatinate_west
+		area_palatinate_north
+		area_palatinate_central
+		area_rhineland_north
+		area_rhineland_south
+		area_rhineland_west
+	}
+}
+
+region_sl = {
+	areas = {
+		area_saarland
+	}
+}
+
+region_sn = {
+	areas = {
+		area_saxony_east
+		area_saxony_west
+		area_saxony_central
+	}
+}
+
+region_berlin_brandenburg = {
+	areas = {
+		area_berlin
+		area_brandenburg_north
+		area_brandenburg_south
+		area_brandenburg_east
+		area_brandenburg_west
+	}
+}
+
+region_mv = {
+	areas = {
+		area_vorpommern
+		area_mecklenburg
+	}
+}
+
+region_sh = {
+	areas = {
+		area_holstein_south
+		area_holstein_north
+		area_sleswig
+	}
+}
+
+region_ni = {
+	areas = {
+		area_hamburg
+		area_bremen
+		area_lower_saxony_nw
+		area_lower_saxony_sw
+		area_lower_saxony_north
+		area_lower_saxony_ne
+		area_lower_saxony_central
+		area_lower_saxony_east
+		area_lower_saxony_se
+		area_lower_saxony_south
+	}
+}
+
+region_st = {
+	areas = {
+		area_anhalt_south
+		area_anhalt_north
+		area_anhalt_east
+	}
+}
+
+region_th = {
+	areas = {
+		area_jena
+		area_erfurt
+		area_gera
+		area_gotha
+	}
+}
+
+region_nw = {
+	areas = {
+		area_cologne_east
+		area_cologne_west
+		area_ruhr_valley_east
+		area_ruhr_valley_west
+		area_dusseldorf_east
+		area_dusseldorf_west
+		area_munster
+		area_arnsberg
+		area_detmold
+	}
+}
+
+random_new_world_region = {
+}

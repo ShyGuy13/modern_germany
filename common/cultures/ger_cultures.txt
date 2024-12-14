@@ -1,0 +1,24 @@
+culture_group_modern_german = {
+	graphical_culture = westerngfx
+	
+	culture_east_frisian = { primary = XNI }
+	culture_holsteinian = { primary = XSL }
+	culture_schleswigian = { }
+	culture_elbian = { primary = XHB }
+	culture_mecklenburgian = { primary = XMV }
+	culture_lausitzian = { primary = XBE }
+	culture_markish = { primary = XBB }
+	culture_north_german = { primary = XHH }
+	culture_thuringian = { primary = XTH }
+	culture_saxonian = { primary = XSN }
+	culture_hessian = { primary = XHE }
+	culture_eastphalian = { primary = XST }
+	culture_westphalian = { primary = XNW }
+	culture_rhinish = { }
+	culture_franconian = { primary = XSL }
+	culture_swabian = { primary = XBW }
+	culture_allemannic = { }
+	culture_bavarian = { primary = XBY }
+	culture_rhine_palatinian = { primary = XRP }
+	culture_frankish = { }
+}

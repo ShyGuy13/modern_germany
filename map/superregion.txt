@@ -1,0 +1,26 @@
+# A region can only belong to one super region.
+
+superregion_s = {
+	region_by
+	region_bw
+}
+
+superregion_e = {
+	region_berlin_brandenburg
+	region_st
+	region_sn
+	region_mv
+	region_th	
+}
+
+superregion_n = {
+	region_ni
+	region_sh
+}
+
+superregion_w = {
+	region_nw
+	region_rp
+	region_he
+	region_sl
+}

@@ -1,0 +1,5 @@
+#...at the start, the idea of a diplomatic action which has a scaling cost sounded cool
+#Never again
+has_enough_persian_influence_to_elevate = {
+	always = no
+}

@@ -1,0 +1,16 @@
+add_core = XSN
+owner = XSN
+controller = XSN
+discovered_by = western
+capital = "Leipzig"
+base_tax = 6
+base_production = 4
+base_manpower = 5
+religion = protestant
+culture = culture_north_german
+trade_goods = gems
+hre = no
+native_size = 30
+native_ferocity = 5
+native_hostileness = 3
+is_city = yes

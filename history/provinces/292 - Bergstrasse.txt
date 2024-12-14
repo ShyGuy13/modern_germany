@@ -1,0 +1,16 @@
+add_core = XHE
+owner = XHE
+controller = XHE
+discovered_by = western
+capital = "Heppenheim"
+base_tax = 3
+base_production = 3
+base_manpower = 3
+religion = catholic
+culture = culture_north_german
+trade_goods = wine
+hre = no
+native_size = 30
+native_ferocity = 5
+native_hostileness = 3
+is_city = yes

@@ -1,0 +1,16 @@
+add_core = XNW
+owner = XNW
+controller = XNW
+discovered_by = western
+capital = "Recklinghausen"
+base_tax = 5
+base_production = 7
+base_manpower = 6
+religion = protestant
+culture = culture_north_german
+trade_goods = iron
+hre = no
+native_size = 30
+native_ferocity = 5
+native_hostileness = 3
+is_city = yes

@@ -1,0 +1,22 @@
+bookmark = {
+	name = bookmark_new_germany
+	desc = bookmark_new_germany_desc
+	date = 1444.11.12
+	
+	center = 431
+	
+	country = XNW
+	country = XBY
+	country = XBW
+	country = XNI
+	country = XHE
+	country = XRP
+	country = XSN
+	country = XBE
+	country = XSH
+	country = XBB
+	
+	easy_country = XNW
+	easy_country = XBY
+	easy_country = XBW
+}

@@ -1,0 +1,16 @@
+add_core = XSL
+owner = XSL
+controller = XSL
+discovered_by = western
+capital = "Merzig"
+base_tax = 1
+base_production = 1
+base_manpower = 1
+religion = catholic
+culture = culture_north_german
+trade_goods = iron
+hre = no
+native_size = 30
+native_ferocity = 5
+native_hostileness = 3
+is_city = yes

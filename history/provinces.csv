@@ -1,0 +1,401 @@
+provinceId;provinceName;add_core;owner;controller;discovered_by;capital;base_tax;base_production;base_manpower;religion;culture;trade_goods;hre;native_size;native_ferocity;native_hostileness;is_city
+431;Berlin;XBE;XBE;XBE;western;Berlin;31;29;45;protestant;culture_north_german;grain;no;30;5;3;yes
+493;Hamburg;XHH;XHH;XHH;western;Hamburg;19;23;12;protestant;culture_north_german;fish;no;30;5;3;yes
+491;StadtMunchen;XBY;XBY;XBY;western;Munchen;21;15;6;catholic;culture_north_german;grain;no;30;5;3;yes
+246;Koln;XNW;XNW;XNW;western;Koln;13;8;9;catholic;culture_north_german;wine;no;30;5;3;yes
+279;FrankfurtamMain;XHE;XHE;XHE;western;Frankfurt am Main;11;6;4;protestant;culture_north_german;grain;no;30;5;3;yes
+248;Aachen;XNW;XNW;XNW;western;Aachen;6;6;6;catholic;culture_north_german;wine;no;30;5;3;yes
+443;Dortmund;XNW;XNW;XNW;western;Dortmund;4;9;5;protestant;culture_north_german;iron;no;30;5;3;yes
+528;Dusseldorf;XNW;XNW;XNW;western;Dusseldorf;9;6;3;catholic;culture_north_german;wine;no;30;5;3;yes
+530;Essen;XNW;XNW;XNW;western;Essen;4;9;5;protestant;culture_north_german;iron;no;30;5;3;yes
+480;Ludwigsburg;XBW;XBW;XBW;western;Ludwigsburg;6;6;6;protestant;culture_north_german;wine;no;30;5;3;yes
+350;Recklinghausen;XNW;XNW;XNW;western;Recklinghausen;5;7;6;protestant;culture_north_german;iron;no;30;5;3;yes
+156;RheinNeckarKreis;XBW;XBW;XBW;western;Heidelberg;5;7;6;catholic;culture_north_german;wine;no;30;5;3;yes
+275;RheinSiegKreis;XNW;XNW;XNW;western;Siegburg;6;6;6;catholic;culture_north_german;wine;no;30;5;3;yes
+476;Stuttgart;XBW;XBW;XBW;western;Stuttgart;5;8;5;protestant;culture_north_german;wine;no;30;5;3;yes
+474;Bremen;XHB;XHB;XHB;western;Bremen;6;6;3;protestant;culture_north_german;fish;no;30;5;3;yes
+282;Dresden;XSN;XSN;XSN;western;Dresden;5;4;6;protestant;culture_saxonian;gems;no;30;5;3;yes
+529;Duisburg;XNW;XNW;XNW;western;Duisburg;4;8;3;protestant;culture_north_german;iron;no;30;5;3;yes
+478;Esslingen;XBW;XBW;XBW;western;Esslingen am Neckar;5;4;3;protestant;culture_north_german;wine;no;30;5;3;yes
+230;Hannover;XNI;XNI;XNI;western;Hannover;5;4;3;protestant;culture_north_german;grain;no;30;5;3;yes
+140;Karlsruhe;XBW;XBW;XBW;western;Karlsruhe;6;5;4;catholic;culture_north_german;wine;no;30;5;3;yes
+325;StadtLeipzig;XSN;XSN;XSN;western;Leipzig;6;4;5;protestant;culture_north_german;gems;no;30;5;3;yes
+161;Mettmann;XNW;XNW;XNW;western;Mettmann;5;4;3;catholic;culture_north_german;wine;no;30;5;3;yes
+316;Nurnberg;XBY;XBY;XBY;western;Nurnberg;5;4;3;catholic;culture_north_german;wine;no;30;5;3;yes
+256;RheinErftKreis;XNW;XNW;XNW;western;Bergheim;5;4;3;catholic;culture_north_german;wine;no;30;5;3;yes
+163;RheinKreisNeuss;XNW;XNW;XNW;western;Neuss;5;4;3;catholic;culture_north_german;wine;no;30;5;3;yes
+352;Steinfurt;XNW;XNW;XNW;western;Steinfurt;5;4;3;protestant;culture_north_german;grain;no;30;5;3;yes
+172;Wesel;XNW;XNW;XNW;western;Wesel;5;4;3;protestant;culture_north_german;grain;no;30;5;3;yes
+477;Boblingen;XBW;XBW;XBW;western;Boblingen;5;4;3;protestant;culture_north_german;wine;no;30;5;3;yes
+442;Bochum;XNW;XNW;XNW;western;Bochum;4;5;3;protestant;culture_north_german;iron;no;30;5;3;yes
+348;Borken;XNW;XNW;XNW;western;Borken;5;4;3;protestant;culture_north_german;grain;no;30;5;3;yes
+387;Gutersloh;XNW;XNW;XNW;western;Gutersloh;5;4;3;protestant;culture_north_german;grain;no;30;5;3;yes
+483;Heilbronn;XBW;XBW;XBW;western;Heilbronn;5;4;3;protestant;culture_north_german;wine;no;30;5;3;yes
+301;MainKinzigKreis;XHE;XHE;XHE;western;Gelnhausen;5;4;3;protestant;culture_north_german;grain;no;30;5;3;yes
+469;MarkischerKreis;XNW;XNW;XNW;western;Ludenscheid;5;4;3;protestant;culture_north_german;iron;no;30;5;3;yes
+512;Munchen;XBY;XBY;XBY;western;Munchen;5;4;3;catholic;culture_north_german;grain;no;30;5;3;yes
+305;Offenbach;XHE;XHE;XHE;western;Dietzenbach;3;3;6;protestant;culture_north_german;grain;no;30;5;3;yes
+196;Ortenaukreis;XBW;XBW;XBW;western;Offenburg;5;4;3;catholic;culture_north_german;wine;no;30;5;3;yes
+334;Osnabruck;XNI;XNI;XNI;western;Osnabruck;5;4;3;protestant;culture_north_german;grain;no;30;5;3;yes
+481;RemsMurrKreis;XBW;XBW;XBW;western;Waiblingen;5;4;3;protestant;culture_north_german;wine;no;30;5;3;yes
+473;Unna;XNW;XNW;XNW;western;Unna;4;5;3;protestant;culture_north_german;iron;no;30;5;3;yes
+372;StadtAugsburg;XBY;XBY;XBY;western;Augsburg;3;3;3;catholic;culture_north_german;grain;no;30;5;3;yes
+377;Augsburg;XBY;XBY;XBY;western;Augsburg;3;3;3;catholic;culture_north_german;grain;no;30;5;3;yes
+295;Bautzen;XSN;XSN;XSN;western;Bautzen;3;3;3;protestant;culture_saxonian;gems;no;30;5;3;yes
+292;Bergstrasse;XHE;XHE;XHE;western;Heppenheim;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+386;Bielefeld;XNW;XNW;XNW;western;Bielefeld;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+245;Bonn;XNW;XNW;XNW;western;Bonn;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+144;Braunschweig;XNI;XNI;XNI;western;Braunschweig;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+194;BreisgauHochschwarzwald;XBW;XBW;XBW;western;Freiburg im Breisgau;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+294;DarmstadtDieburg;XHE;XHE;XHE;western;Darmstadt;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+255;Duren;XNW;XNW;XNW;western;Duren;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+329;Emsland;XNI;XNI;XNI;western;Meppen;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+467;EnnepeRuhrKreis;XNW;XNW;XNW;western;Schwelm;3;3;3;protestant;culture_north_german;iron;no;30;5;3;yes
+240;Erzgebirgskreis;XSN;XSN;XSN;western;Annaberg-Buchholz;3;3;3;protestant;culture_north_german;gems;no;30;5;3;yes
+345;Gelsenkirchen;XNW;XNW;XNW;western;Gelsenkirchen;3;3;3;protestant;culture_north_german;iron;no;30;5;3;yes
+335;Giessen;XHE;XHE;XHE;western;Gieﬂen;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+479;Goppingen;XBW;XBW;XBW;western;Goppingen;3;3;3;protestant;culture_north_german;wine;no;30;5;3;yes
+192;Gottingen;XNI;XNI;XNI;western;Gottingen;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+297;GrossGerau;XHE;XHE;XHE;western;Groﬂ-Gerau;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+285;Harburg;XNI;XNI;XNI;western;Winsen (Luhe);3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+265;Heinsberg;XNW;XNW;XNW;western;Heinsberg;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+388;Herford;XNW;XNW;XNW;western;Herford;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+237;Hildesheim;XNI;XNI;XNI;western;Hildesheim;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+468;Hochsauerlandkreis;XNW;XNW;XNW;western;Meschede;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+139;StadtKarlsruhe;XBW;XBW;XBW;western;Karlsruhe;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+155;Kleve;XNW;XNW;XNW;western;Kleve;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+201;Konstanz;XBW;XBW;XBW;western;Konstanz;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+337;LahnDillKreis;XHE;XHE;XHE;western;Wetzlar;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+344;Leipzig;XSN;XSN;XSN;western;Borna;3;3;3;protestant;culture_north_german;gems;no;30;5;3;yes
+390;Lippe;XNW;XNW;XNW;western;Detmold;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+148;Mannheim;XBW;XBW;XBW;western;Mannheim;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+341;MarburgBiedenkopf;XHE;XHE;XHE;western;Marburg;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+432;MecklenburgischeSeenplatte;XMV;XMV;XMV;western;Neubrandenburg;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+391;MindenLubbecke;XNW;XNW;XNW;western;Minden;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+242;Mittelsachsen;XSN;XSN;XSN;western;Freiberg;3;3;3;protestant;culture_north_german;gems;no;30;5;3;yes
+532;Monchengladbach;XNW;XNW;XNW;western;Monchengladbach;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+347;Munster;XNW;XNW;XNW;western;Munster;3;3;3;catholic;culture_north_german;grain;no;30;5;3;yes
+266;OberbergischerKreis;XNW;XNW;XNW;western;Gummersbach;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+489;Ostalbkreis;XBW;XBW;XBW;western;Aalen;3;3;3;protestant;culture_north_german;wine;no;30;5;3;yes
+392;Paderborn;XNW;XNW;XNW;western;Paderborn;3;3;3;catholic;culture_north_german;grain;no;30;5;3;yes
+151;Pinneberg;XSL;XSL;XSL;western;Pinneberg;3;3;3;protestant;culture_north_german;fish;no;30;5;3;yes
+258;Ravensburg;XBW;XBW;XBW;western;Ravensburg;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+154;RendsburgEckernforde;XSL;XSL;XSL;western;Rendsburg;3;3;3;protestant;culture_north_german;fish;no;30;5;3;yes
+249;Reutlingen;XBW;XBW;XBW;western;Reutlingen;3;3;3;protestant;culture_north_german;wine;no;30;5;3;yes
+270;RheinischBergischerKreis;XNW;XNW;XNW;western;Bergisch Gladbach;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+517;Rosenheim;XBY;XBY;XBY;western;Rosenheim;3;3;3;catholic;culture_north_german;grain;no;30;5;3;yes
+461;SaarbruckenRegionalverband;XSL;XSL;XSL;western;Saarbrucken;3;3;3;catholic;culture_north_german;iron;no;30;5;3;yes
+158;Segeberg;XSL;XSL;XSL;western;Bad Segeberg;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+471;SiegenWittgenstein;XNW;XNW;XNW;western;Siegen;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+472;Soest;XNW;XNW;XNW;western;Soest;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+169;Viersen;XNW;XNW;XNW;western;Viersen;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+355;Warendorf;XNW;XNW;XNW;western;Warendorf;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+307;Wetteraukreis;XHE;XHE;XHE;western;Friedberg (Hessen);3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+281;Wiesbaden;XHE;XHE;XHE;western;Wiesbaden;3;3;3;protestant;culture_north_german;grain;no;30;5;3;yes
+137;Wuppertal;XNW;XNW;XNW;western;Wuppertal;3;3;3;catholic;culture_north_german;wine;no;30;5;3;yes
+244;Zwickau;XSN;XSN;XSN;western;Zwickau;3;3;3;protestant;culture_north_german;gems;no;30;5;3;yes
+253;AlbDonauKreis;XBW;XBW;XBW;western;Ulm;2;2;2;protestant;culture_north_german;wine;no;30;5;3;yes
+421;AnhaltBitterfeld;XST;XST;XST;western;Kothen;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+318;Ansbach;XBY;XBY;XBY;western;Ansbach;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+356;Aschaffenburg;XBY;XBY;XBY;western;Aschaffenburg;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+327;Aurich;XNI;XNI;XNI;western;Aurich;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+506;BadKreuznach;XRP;XRP;XRP;western;Bad Kreuznach;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+447;Barnim;XBB;XBB;XBB;western;Eberswalde;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+254;Biberach;XBW;XBW;XBW;western;Biberach an der Riﬂ;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+257;Bodenseekreis;XBW;XBW;XBW;western;Friedrichshafen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+422;Borde;XST;XST;XST;western;Haldensleben;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+423;Burgenlandkreis;XST;XST;XST;western;Naumburg (Saale);2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+165;Calw;XBW;XBW;XBW;western;Calw;2;2;2;protestant;culture_north_german;wine;no;30;5;3;yes
+283;Celle;XNI;XNI;XNI;western;Celle;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+234;Chemnitz;XSN;XSN;XSN;western;Chemnitz;2;2;2;protestant;culture_north_german;gems;no;30;5;3;yes
+328;Cloppenburg;XNI;XNI;XNI;western;Cloppenburg;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+349;Coesfeld;XNW;XNW;XNW;western;Coesfeld;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+284;Cuxhaven;XNI;XNI;XNI;western;Cuxhaven;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+497;Dachau;XBY;XBY;XBY;western;Dachau;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+448;DahmeSpreewald;XBB;XBB;XBB;western;Lubben (Spreewald);2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+235;Diepholz;XNI;XNI;XNI;western;Diepholz;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+195;Emmendingen;XBW;XBW;XBW;western;Emmendingen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+166;Enzkreis;XBW;XBW;XBW;western;Pforzheim;2;2;2;protestant;culture_north_german;wine;no;30;5;3;yes
+396;Erfurt;XTH;XTH;XTH;western;Erfurt;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+261;Euskirchen;XNW;XNW;XNW;western;Euskirchen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+193;FreiburgimBreisgau;XBW;XBW;XBW;western;Freiburg im Breisgau;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+501;Freising;XBY;XBY;XBY;western;Freising;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+366;Fulda;XHE;XHE;XHE;western;Fulda;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+503;Furstenfeldbruck;XBY;XBY;XBY;western;Furstenfeldbruck;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+186;Gifhorn;XNI;XNI;XNI;western;Gifhorn;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+298;Gorlitz;XSN;XSN;XSN;western;Gorlitz;2;2;2;protestant;culture_saxonian;gems;no;30;5;3;yes
+444;Hagen;XNW;XNW;XNW;western;Hagen;2;2;2;protestant;culture_north_german;iron;no;30;5;3;yes
+394;HalleSaale;XST;XST;XST;western;Halle (Saale);2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+236;HamelnPyrmont;XNI;XNI;XNI;western;Hameln;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+445;Hamm;XNW;XNW;XNW;western;Hamm;2;2;2;protestant;culture_north_german;iron;no;30;5;3;yes
+424;Harz;XST;XST;XST;western;Halberstadt;2;2;2;protestant;culture_north_german;iron;no;30;5;3;yes
+450;Havelland;XBB;XBB;XBB;western;Rathenow;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+446;Herne;XNW;XNW;XNW;western;Herne;2;2;2;protestant;culture_north_german;iron;no;30;5;3;yes
+143;HerzogtumLauenburg;XSL;XSL;XSL;western;Ratzeburg;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+299;Hochtaunuskreis;XHE;XHE;XHE;western;Bad Homburg vor der Hohe;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+365;StadtKassel;XHE;XHE;XHE;western;Kassel;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+368;Kassel;XHE;XHE;XHE;western;Kassel;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+525;Kiel;XSL;XSL;XSL;western;Kiel;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+531;Krefeld;XNW;XNW;XNW;western;Krefeld;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+176;Landshut;XBY;XBY;XBY;western;Landshut;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+332;Leer;XNI;XNI;XNI;western;Leer (Ostfriesland);2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+247;Leverkusen;XNW;XNW;XNW;western;Leverkusen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+339;LimburgWeilburg;XHE;XHE;XHE;western;Limburg an der Lahn;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+203;Lorrach;XBW;XBW;XBW;western;Lorrach;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+526;Lubeck;XSL;XSL;XSL;western;Lubeck;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+207;LudwigshafenamRhein;XRP;XRP;XRP;western;Ludwigshafen am Rhein;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+438;LudwigslustParchim;XMV;XMV;XMV;western;Parchim;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+287;Luneburg;XNI;XNI;XNI;western;Luneburg;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+395;Magdeburg;XST;XST;XST;western;Magdeburg;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+303;MainTaunusKreis;XHE;XHE;XHE;western;Hofheim am Taunus;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+209;Mainz;XRP;XRP;XRP;western;Mainz;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+232;MainzBingen;XRP;XRP;XRP;western;Ingelheim am Rhein;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+451;MarkischOderland;XBB;XBB;XBB;western;Seelow;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+513;MayenKoblenz;XRP;XRP;XRP;western;Koblenz;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+300;Meissen;XSN;XSN;XSN;western;Meiﬂen;2;2;2;protestant;culture_north_german;gems;no;30;5;3;yes
+533;MulheimanderRuhr;XNW;XNW;XNW;western;Mulheim an der Ruhr;2;2;2;protestant;culture_north_german;iron;no;30;5;3;yes
+380;NeuUlm;XBY;XBY;XBY;western;Neu-Ulm;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+515;Neuwied;XRP;XRP;XRP;western;Neuwied;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+146;Nordfriesland;XSL;XSL;XSL;western;Husum;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+346;Nordsachsen;XSN;XSN;XSN;western;Torgau;2;2;2;protestant;culture_north_german;gems;no;30;5;3;yes
+435;Nordwestmecklenburg;XMV;XMV;XMV;western;Wismar;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+321;NurnbergerLand;XBY;XBY;XBY;western;Lauf an der Pegnitz;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+385;Oberallgau;XBY;XBY;XBY;western;Sonthofen;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+534;Oberhausen;XNW;XNW;XNW;western;Oberhausen;2;2;2;protestant;culture_north_german;iron;no;30;5;3;yes
+452;Oberhavel;XBB;XBB;XBB;western;Oranienburg;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+454;OderSpree;XBB;XBB;XBB;western;Beeskow;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+310;StadtOldenburg;XNI;XNI;XNI;western;Oldenburg;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+311;StadtOsnabruck;XNI;XNI;XNI;western;Osnabruck;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+149;Ostholstein;XSL;XSL;XSL;western;Eutin;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+177;Passau;XBY;XBY;XBY;western;Passau;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+441;Potsdam;XBB;XBB;XBB;western;Potsdam;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+456;PotsdamMittelmark;XBB;XBB;XBB;western;Bad Belzig;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+141;Rastatt;XBW;XBW;XBW;western;Rastatt;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+220;Regensburg;XBY;XBY;XBY;western;Regensburg;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+231;RheinPfalzKreis;XRP;XRP;XRP;western;Ludwigshafen am Rhein;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+306;RheingauTaunusKreis;XHE;XHE;XHE;western;Bad Schwalbach;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+416;StadtRostock;XMV;XMV;XMV;western;Rostock;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+433;Rostock;XMV;XMV;XMV;western;Gustrow;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+289;RotenburgWumme;XNI;XNI;XNI;western;Rotenburg (Wumme);2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+427;Saalekreis;XST;XST;XST;western;Merseburg;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+464;Saarlouis;XSL;XSL;XSL;western;Saarlouis;2;2;2;catholic;culture_north_german;iron;no;30;5;3;yes
+302;SachsischeSchweizOsterzgebirge;XSN;XSN;XSN;western;Pirna;2;2;2;protestant;culture_north_german;gems;no;30;5;3;yes
+428;Salzlandkreis;XST;XST;XST;western;Bernburg (Saale);2;2;2;protestant;culture_north_german;salt;no;30;5;3;yes
+241;Schaumburg;XNI;XNI;XNI;western;Stadthagen;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+157;SchleswigFlensburg;XSL;XSL;XSL;western;Schleswig;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+485;SchwabischHall;XBW;XBW;XBW;western;Schw‰bisch Hall;2;2;2;protestant;culture_north_german;wine;no;30;5;3;yes
+369;SchwalmEderKreis;XHE;XHE;XHE;western;Homberg (Efze);2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+221;Schwandorf;XBY;XBY;XBY;western;Schwandorf;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+198;SchwarzwaldBaarKreis;XBW;XBW;XBW;western;Villingen-Schwenningen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+136;Solingen;XNW;XNW;XNW;western;Solingen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+291;Stade;XNI;XNI;XNI;western;Stade;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+160;Stormarn;XSL;XSL;XSL;western;Bad Oldesloe;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+459;TeltowFlaming;XBB;XBB;XBB;western;Luckenwalde;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+521;Traunstein;XBY;XBY;XBY;western;Traunstein;2;2;2;catholic;culture_north_german;salt;no;30;5;3;yes
+185;TrierSaarburg;XRP;XRP;XRP;western;Trier;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+250;Tubingen;XBW;XBW;XBW;western;Tubingen;2;2;2;protestant;culture_north_german;wine;no;30;5;3;yes
+383;Unterallgau;XBY;XBY;XBY;western;Mindelheim;2;2;2;catholic;culture_north_german;grain;no;30;5;3;yes
+243;Vogtlandkreis;XSN;XSN;XSN;western;Plauen;2;2;2;protestant;culture_north_german;gems;no;30;5;3;yes
+436;VorpommernGreifswald;XMV;XMV;XMV;western;Greifswald;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+434;VorpommernRugen;XMV;XMV;XMV;western;Stralsund;2;2;2;protestant;culture_north_german;fish;no;30;5;3;yes
+370;WaldeckFrankenberg;XHE;XHE;XHE;western;Korbach;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+206;Waldshut;XBW;XBW;XBW;western;Waldshut-Tiengen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+403;Wartburgkreis;XTH;XTH;XTH;western;Bad Salzungen;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+523;Westerwaldkreis;XRP;XRP;XRP;western;Montabaur;2;2;2;protestant;culture_north_german;grain;no;30;5;3;yes
+364;Wurzburg;XBY;XBY;XBY;western;Wurzburg;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+251;Zollernalbkreis;XBW;XBW;XBW;western;Balingen;2;2;2;catholic;culture_north_german;wine;no;30;5;3;yes
+502;Ahrweiler;XRP;XRP;XRP;western;Bad Neuenahr-Ahrweiler;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+376;AichachFriedberg;XBY;XBY;XBY;western;Aichach;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+419;AltenburgerLand;XTH;XTH;XTH;western;Altenburg;1;1;1;protestant;culture_thuringian;grain;no;30;5;3;yes
+504;AltenkirchenWesterwald;XRP;XRP;XRP;western;Altenkirchen (Westerwald);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+420;AltmarkkreisSalzwedel;XST;XST;XST;western;Salzwedel;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+494;Altotting;XBY;XBY;XBY;western;Altotting;1;1;1;catholic;culture_north_german;salt;no;30;5;3;yes
+223;AlzeyWorms;XRP;XRP;XRP;western;Alzey;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+205;Amberg;XBY;XBY;XBY;western;Amberg;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+216;AmbergSulzbach;XBY;XBY;XBY;western;Amberg;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+326;Ammerland;XNI;XNI;XNI;western;Westerstede;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+313;StadtAnsbach;XBY;XBY;XBY;western;Ansbach;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+351;StadtAschaffenburg;XBY;XBY;XBY;western;Aschaffenburg;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+224;BadDurkheim;XRP;XRP;XRP;western;Bad Durkheim;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+357;BadKissingen;XBY;XBY;XBY;western;Bad Kissingen;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+496;BadTolzWolfratshausen;XBY;XBY;XBY;western;Bad Tolz;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+138;BadenBaden;XBW;XBW;XBW;western;Baden-Baden;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+259;StadtBamberg;XBY;XBY;XBY;western;Bamberg;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+267;Bamberg;XBY;XBY;XBY;western;Bamberg;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+262;StadtBayreuth;XBY;XBY;XBY;western;Bayreuth;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+268;Bayreuth;XBY;XBY;XBY;western;Bayreuth;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+495;BerchtesgadenerLand;XBY;XBY;XBY;western;Bad Reichenhall;1;1;1;catholic;culture_north_german;salt;no;30;5;3;yes
+181;BernkastelWittlich;XRP;XRP;XRP;western;Wittlich;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+508;Birkenfeld;XRP;XRP;XRP;western;Birkenfeld;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+343;Bottrop;XNW;XNW;XNW;western;Bottrop;1;1;1;protestant;culture_north_german;iron;no;30;5;3;yes
+437;BrandenburganderHavel;XBB;XBB;XBB;western;Brandenburg an der Havel;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+475;Bremerhaven;XHB;XHB;XHB;western;Bremerhaven;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+217;Cham;XBY;XBY;XBY;western;Cham;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+263;StadtCoburg;XBY;XBY;XBY;western;Coburg;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+269;Coburg;XBY;XBY;XBY;western;Coburg;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+510;CochemZell;XRP;XRP;XRP;western;Cochem;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+439;Cottbus;XBB;XBB;XBB;western;Cottbus;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+278;Darmstadt;XHE;XHE;XHE;western;Darmstadt;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+173;Deggendorf;XBY;XBY;XBY;western;Deggendorf;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+308;Delmenhorst;XNI;XNI;XNI;western;Delmenhorst;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+393;DessauRosslau;XST;XST;XST;western;Dessau-Roﬂlau;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+378;DillingenanderDonau;XBY;XBY;XBY;western;Dillingen an der Donau;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+182;DingolfingLandau;XBY;XBY;XBY;western;Dingolfing;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+142;Dithmarschen;XSL;XSL;XSL;western;Heide;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+384;DonauRies;XBY;XBY;XBY;western;Donauworth;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+225;Donnersbergkreis;XRP;XRP;XRP;western;Kirchheimbolanden;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+498;Ebersberg;XBY;XBY;XBY;western;Ebersberg;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+401;Eichsfeld;XTH;XTH;XTH;western;Heilbad Heiligenstadt;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+499;Eichstatt;XBY;XBY;XBY;western;Eichst‰tt;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+183;EifelkreisBitburgPrum;XRP;XRP;XRP;western;Bitburg;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+449;ElbeElster;XBB;XBB;XBB;western;Herzberg (Elster);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+309;Emden;XNI;XNI;XNI;western;Emden;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+500;Erding;XBY;XBY;XBY;western;Erding;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+314;Erlangen;XBY;XBY;XBY;western;Erlangen;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+319;ErlangenHochstadt;XBY;XBY;XBY;western;Erlangen;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+524;Flensburg;XSL;XSL;XSL;western;Flensburg;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+271;Forchheim;XBY;XBY;XBY;western;Forchheim;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+200;FrankenthalPfalz;XRP;XRP;XRP;western;Frankenthal (Pfalz);1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+440;FrankfurtOder;XBB;XBB;XBB;western;Frankfurt (Oder);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+168;Freudenstadt;XBW;XBW;XBW;western;Freudenstadt;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+174;FreyungGrafenau;XBY;XBY;XBY;western;Freyung;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+330;Friesland;XNI;XNI;XNI;western;Jever;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+315;StadtFurth;XBY;XBY;XBY;western;Furth;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+320;Furth;XBY;XBY;XBY;western;Zirndorf;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+505;GarmischPartenkirchen;XBY;XBY;XBY;western;Garmisch-Partenkirchen;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+397;Gera;XTH;XTH;XTH;western;Gera;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+226;Germersheim;XRP;XRP;XRP;western;Germersheim;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+187;Goslar;XNI;XNI;XNI;western;Goslar;1;1;1;protestant;culture_north_german;iron;no;30;5;3;yes
+407;Gotha;XTH;XTH;XTH;western;Gotha;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+331;GrafschaftBentheim;XNI;XNI;XNI;western;Nordhorn;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+417;Greiz;XTH;XTH;XTH;western;Greiz;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+379;Gunzburg;XBY;XBY;XBY;western;Gunzburg;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+359;Hassberge;XBY;XBY;XBY;western;Haﬂfurt;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+290;Heidekreis;XNI;XNI;XNI;western;Bad Fallingbostel;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+145;Heidelberg;XBW;XBW;XBW;western;Heidelberg;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+488;Heidenheim;XBW;XBW;XBW;western;Heidenheim an der Brenz;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+482;StadtHeilbronn;XBW;XBW;XBW;western;Heilbronn;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+188;Helmstedt;XNI;XNI;XNI;western;Helmstedt;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+367;HersfeldRotenburg;XHE;XHE;XHE;western;Bad Hersfeld;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+409;Hildburghausen;XTH;XTH;XTH;western;Hildburghausen;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+264;StadtHof;XBY;XBY;XBY;western;Hof;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+272;Hof;XBY;XBY;XBY;western;Hof;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+484;Hohenlohekreis;XBW;XBW;XBW;western;Kunzelsau;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+238;Holzminden;XNI;XNI;XNI;western;Holzminden;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+389;Hoxter;XNW;XNW;XNW;western;Hoxter;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+410;IlmKreis;XTH;XTH;XTH;western;Arnstadt;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+490;Ingolstadt;XBY;XBY;XBY;western;Ingolstadt;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+398;Jena;XTH;XTH;XTH;western;Jena;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+425;JerichowerLand;XST;XST;XST;western;Burg;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+202;StadtKaiserslautern;XRP;XRP;XRP;western;Kaiserslautern;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+227;Kaiserslautern;XRP;XRP;XRP;western;Kaiserslautern;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+373;Kaufbeuren;XBY;XBY;XBY;western;Kaufbeuren;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+175;Kelheim;XBY;XBY;XBY;western;Kelheim;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+374;KemptenAllgau;XBY;XBY;XBY;western;Kempten (Allg‰u);1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+360;Kitzingen;XBY;XBY;XBY;western;Kitzingen;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+487;Koblenz;XRP;XRP;XRP;western;Koblenz;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+273;Kronach;XBY;XBY;XBY;western;Kronach;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+274;Kulmbach;XBY;XBY;XBY;western;Kulmbach;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+228;Kusel;XRP;XRP;XRP;western;Kusel;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+405;Kyffhauserkreis;XTH;XTH;XTH;western;Sondershausen;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+204;LandauinderPfalz;XRP;XRP;XRP;western;Landau in der Pfalz;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+507;LandsbergamLech;XBY;XBY;XBY;western;Landsberg am Lech;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+167;StadtLandshut;XBY;XBY;XBY;western;Landshut;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+276;Lichtenfels;XBY;XBY;XBY;western;Lichtenfels;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+381;LindauBodensee;XBY;XBY;XBY;western;Lindau (Bodensee);1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+286;LuchowDannenberg;XNI;XNI;XNI;western;Luchow (Wendland);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+362;MainSpessart;XBY;XBY;XBY;western;Karlstadt;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+486;MainTauberKreis;XBW;XBW;XBW;western;Tauberbischofsheim;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+426;MansfeldSudharz;XST;XST;XST;western;Sangerhausen;1;1;1;protestant;culture_north_german;iron;no;30;5;3;yes
+375;Memmingen;XBY;XBY;XBY;western;Memmingen;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+462;MerzigWadern;XSL;XSL;XSL;western;Merzig;1;1;1;catholic;culture_north_german;iron;no;30;5;3;yes
+509;Miesbach;XBY;XBY;XBY;western;Miesbach;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+361;Miltenberg;XBY;XBY;XBY;western;Miltenberg;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+511;MuhldorfamInn;XBY;XBY;XBY;western;Muhldorf am Inn;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+153;NeckarOdenwaldKreis;XBW;XBW;XBW;western;Mosbach;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+514;NeuburgSchrobenhausen;XBY;XBY;XBY;western;Neuburg an der Donau;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+218;NeumarktinderOberpfalz;XBY;XBY;XBY;western;Neumarkt in der Oberpfalz;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+527;Neumunster;XSL;XSL;XSL;western;Neumunster;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+463;Neunkirchen;XSL;XSL;XSL;western;Ottweiler;1;1;1;catholic;culture_north_german;iron;no;30;5;3;yes
+322;NeustadtanderAischBadWindsheim;XBY;XBY;XBY;western;Neustadt an der Aisch;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+219;NeustadtanderWaldnaab;XBY;XBY;XBY;western;Neustadt an der Waldnaab;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+211;NeustadtanderWeinstrasse;XRP;XRP;XRP;western;Neustadt an der Weinstraﬂe;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+239;NienburgWeser;XNI;XNI;XNI;western;NienburgWeser;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+402;Nordhausen;XTH;XTH;XTH;western;Nordhausen;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+189;Northeim;XNI;XNI;XNI;western;Northeim;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+453;OberspreewaldLausitz;XBB;XBB;XBB;western;Senftenberg;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+304;Odenwaldkreis;XHE;XHE;XHE;western;Erbach;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+280;OffenbachamMain;XHE;XHE;XHE;western;Offenbach am Main;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+333;Oldenburg;XNI;XNI;XNI;western;Wildeshausen;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+470;Olpe;XNW;XNW;XNW;western;Olpe;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+382;Ostallgau;XBY;XBY;XBY;western;Marktoberdorf;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+288;Osterholz;XNI;XNI;XNI;western;Osterholz-Scharmbeck;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+455;OstprignitzRuppin;XBB;XBB;XBB;western;Neuruppin;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+170;StadtPassau;XBY;XBY;XBY;western;Passau;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+190;Peine;XNI;XNI;XNI;western;Peine;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+516;PfaffenhofenanderIlm;XBY;XBY;XBY;western;Pfaffenhofen an der Ilm;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+162;Pforzheim;XBW;XBW;XBW;western;Pforzheim;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+212;Pirmasens;XRP;XRP;XRP;western;Pirmasens;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+152;Plon;XSL;XSL;XSL;western;Plon;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+457;Prignitz;XBB;XBB;XBB;western;Perleberg;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+178;Regen;XBY;XBY;XBY;western;Regen;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+208;StadtRegensburg;XBY;XBY;XBY;western;Regensburg;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+135;Remscheid;XNW;XNW;XNW;western;Remscheid;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+518;RheinHunsruckKreis;XRP;XRP;XRP;western;Simmern/Hunsruck;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+520;RheinLahnKreis;XRP;XRP;XRP;western;Bad Ems;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+358;RhonGrabfeld;XBY;XBY;XBY;western;Bad Neustadt an der Saale;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+492;StadtRosenheim;XBY;XBY;XBY;western;Rosenheim;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+323;Roth;XBY;XBY;XBY;western;Roth;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+179;RottalInn;XBY;XBY;XBY;western;Pfarrkirchen;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+197;Rottweil;XBW;XBW;XBW;western;Rottweil;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+414;SaaleHolzlandKreis;XTH;XTH;XTH;western;Eisenberg;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+415;SaaleOrlaKreis;XTH;XTH;XTH;western;Schleiz;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+413;SaalfeldRudolstadt;XTH;XTH;XTH;western;Saalfeld/Saale;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+465;SaarpfalzKreis;XSL;XSL;XSL;western;Homburg;1;1;1;catholic;culture_north_german;iron;no;30;5;3;yes
+147;Salzgitter;XNI;XNI;XNI;western;Salzgitter;1;1;1;protestant;culture_north_german;iron;no;30;5;3;yes
+406;SchmalkaldenMeiningen;XTH;XTH;XTH;western;Meiningen;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+317;Schwabach;XBY;XBY;XBY;western;Schwabach;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+353;StadtSchweinfurt;XBY;XBY;XBY;western;Schweinfurt;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+363;Schweinfurt;XBY;XBY;XBY;western;Schweinfurt;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+418;Schwerin;XMV;XMV;XMV;western;Schwerin;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+260;Sigmaringen;XBW;XBW;XBW;western;Sigmaringen;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+408;Sommerda;XTH;XTH;XTH;western;Sommerda;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+412;Sonneberg;XTH;XTH;XTH;western;Sonneberg;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+213;Speyer;XRP;XRP;XRP;western;Speyer;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+458;SpreeNeisse;XBB;XBB;XBB;western;Forst (Lausitz);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+466;St.Wendel;XSL;XSL;XSL;western;St. Wendel;1;1;1;catholic;culture_north_german;iron;no;30;5;3;yes
+519;Starnberg;XBY;XBY;XBY;western;Starnberg;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+159;Steinburg;XSL;XSL;XSL;western;Itzehoe;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+429;Stendal;XST;XST;XST;western;Stendal;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+171;Straubing;XBY;XBY;XBY;western;Straubing;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+180;StraubingBogen;XBY;XBY;XBY;western;Straubing;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+229;SudlicheWeinstrasse;XRP;XRP;XRP;western;Landau in der Pfalz;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+233;Sudwestpfalz;XRP;XRP;XRP;western;Pirmasens;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+399;Suhl;XTH;XTH;XTH;western;Suhl;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+222;Tirschenreuth;XBY;XBY;XBY;western;Tirschenreuth;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+164;Trier;XRP;XRP;XRP;western;Trier;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+199;Tuttlingen;XBW;XBW;XBW;western;Tuttlingen;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+460;Uckermark;XBB;XBB;XBB;western;Prenzlau;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+293;Uelzen;XNI;XNI;XNI;western;Uelzen;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+252;Ulm;XBW;XBW;XBW;western;Ulm;1;1;1;protestant;culture_north_german;wine;no;30;5;3;yes
+404;UnstrutHainichKreis;XTH;XTH;XTH;western;Muhlhausen/Thuringen;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+336;Vechta;XNI;XNI;XNI;western;Vechta;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+296;Verden;XNI;XNI;XNI;western;Verden (Aller);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+342;Vogelsbergkreis;XHE;XHE;XHE;western;Lauterbach (Hessen);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+184;Vulkaneifel;XRP;XRP;XRP;western;Daun;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+210;WeideninderOberpfalz;XBY;XBY;XBY;western;Weiden in der Oberpfalz;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+522;WeilheimSchongau;XBY;XBY;XBY;western;Weilheim in Oberbayern;1;1;1;catholic;culture_north_german;grain;no;30;5;3;yes
+400;Weimar;XTH;XTH;XTH;western;Weimar;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+411;WeimarerLand;XTH;XTH;XTH;western;Apolda;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+324;WeissenburgGunzenhausen;XBY;XBY;XBY;western;Weiﬂenburg in Bayern;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+371;WerraMeissnerKreis;XHE;XHE;XHE;western;Eschwege;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+338;Wesermarsch;XNI;XNI;XNI;western;Brake (Unterweser);1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+312;Wilhelmshaven;XNI;XNI;XNI;western;Wilhelmshaven;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+430;Wittenberg;XST;XST;XST;western;Lutherstadt Wittenberg;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+340;Wittmund;XNI;XNI;XNI;western;Wittmund;1;1;1;protestant;culture_north_german;fish;no;30;5;3;yes
+191;Wolfenbuttel;XNI;XNI;XNI;western;Wolfenbuttel;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+150;Wolfsburg;XNI;XNI;XNI;western;Wolfsburg;1;1;1;protestant;culture_north_german;grain;no;30;5;3;yes
+214;Worms;XRP;XRP;XRP;western;Worms;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+277;WunsiedelimFichtelgebirge;XBY;XBY;XBY;western;Wunsiedel;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+354;StadtWurzburg;XBY;XBY;XBY;western;Wurzburg;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes
+215;Zweibrucken;XRP;XRP;XRP;western;Zweibrucken;1;1;1;catholic;culture_north_german;wine;no;30;5;3;yes

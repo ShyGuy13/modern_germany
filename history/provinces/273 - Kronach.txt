@@ -1,0 +1,16 @@
+add_core = XBY
+owner = XBY
+controller = XBY
+discovered_by = western
+capital = "Kronach"
+base_tax = 1
+base_production = 1
+base_manpower = 1
+religion = catholic
+culture = culture_north_german
+trade_goods = wine
+hre = no
+native_size = 30
+native_ferocity = 5
+native_hostileness = 3
+is_city = yes

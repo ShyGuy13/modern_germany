@@ -1,0 +1,149 @@
+# This file contains all triggers which are are needed for dynamic effects, but have more than 512 characters in total.
+tur_al_andalus_eyalet_limit_a = {
+	always = no
+}
+
+BYZ_roman_empire_decision_trigger = {
+	always = no
+}
+
+BYZ_has_rights_of_man = {
+	has_dlc = "Rights of Man"
+}
+
+BYZ_has_leviathan = {
+	has_dlc = "Leviathan"
+}
+
+BYZ_eligible_province_for_culture_conversion = {
+	always = no
+}
+
+BYZ_reached_pronia_slot_limit = {
+	always = no
+}
+
+BYZ_enough_pronoia_slots = {
+	always = no
+}
+
+BYZ_branch_trigger = {
+	always = no
+}
+
+byz_is_in_middle_east_or_europe = {
+	always = no
+}
+
+BYZ_historical_interest_against_ottomans = {
+	always = no
+}
+
+BYZ_is_not_latin_empire = {
+	always = no
+}
+
+ITA_branch_trigger = {
+	always = no
+}
+
+GER_can_integrate_culture = {
+	always = no
+}
+
+GER_can_integrate_a_culture = {
+	always = no
+}
+
+GER_integrating_a_culture = {
+	always = no
+}
+
+GET_integrated_all_cultures = {
+	always = no
+}
+
+GER_num_of_cultures_accepted = {
+	always = no
+}
+
+GER_is_accepting_culture_being_integrated = {
+	always = no
+}
+
+GER_has_matching_culture = {
+	always = no
+}
+
+surpass_poland_complex_scripted_trigger = {
+	always = no
+}
+
+TIM_persia_tree_trigger = {
+	always = no
+}
+
+TIM_nomad_tree_trigger = {
+	always = no
+}
+
+TIM_interested_in_persian_matter = {
+	always = no
+}
+
+TIM_enough_soyurghal_slots = {
+	always = no
+}
+
+TIM_reached_soyurghal_slot_limit = {
+	always = no
+}
+
+is_part_of_trunk_road = { 
+	always = no
+}
+
+every_trunk_road_province_trigger = {}
+
+reform_civil_registration_first_limit = {
+	always = no
+}
+
+reform_civil_registration_second_limit = {
+	always = no
+}
+
+is_tatar_nation = {
+	always = no
+}
+
+was_tatar_nation = {
+	always = no
+}
+
+is_mongol_nation = {
+	always = no
+}
+
+was_mongol_nation = {
+	always = no
+}
+
+is_moghulistan_nation = {
+	always = no
+}
+
+was_moghulistan_nation = {
+	always = no
+}
+
+RUS_has_none_of_the_serfdom_privileges = {
+	always = yes
+}
+
+RUS_rus_solidify_serfdom_serfdom = {
+	always = no
+}
+RUS_rus_solidify_serfdom_free_peasants = {
+	always = no
+}
