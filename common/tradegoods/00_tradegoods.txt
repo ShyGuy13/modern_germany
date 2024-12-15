@@ -1142,9 +1142,21 @@ gems = {
 coal = {
 	color = { 0.0 1.0 1.0 }
 	
+	is_latent = yes
+	is_valuable = yes
+
+	trigger = {
+		OR = {
+			development_discounting_tribal = 20
+			owner = { innovativeness = 20 }
+		}
+	}
+
 	modifier = {
 		global_trade_goods_size_modifier = 0.1
 	}
+
+
 	
 	province = {
 		local_state_maintenance_modifier = -0.2
