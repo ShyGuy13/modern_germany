@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = western
 capital = 281
 primary_culture = culture_hessian
-religion = protestant
+religion = reformed

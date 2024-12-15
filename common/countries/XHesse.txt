@@ -1,5 +1,5 @@
 graphical_culture = westerngfx
-color = { 114  171  184 }
+color = { 114 171 184 }
 historical_idea_groups = { 
 	innovativeness_ideas
 	offensive_ideas
@@ -95,29 +95,17 @@ monarch_names = {
 }
 leader_names = { 
 	Arnim
-	"von Schwerin" Blankensee
-	"von Taubeneck" "von Dossow" Perlkowski
-	"von Bühler" "von Dessau" "von Kyau" Arnswald
-	Finck
+	"von Schwerin" Blankensee "von Taubeneck" "von Dossow" Perlkowski "von Bühler" "von Dessau" "von Kyau" Arnswald Finck
 	Zitzwitz
-	"von Plothow" Billerbeck
-	"von Stille" "von Anhalt-Dessau" Knobelsdorf
-	"von Rauch" "von Quernheimberg" Höltzendorff
-	"von Quitzow" Cisielsky
+	"von Plothow" Billerbeck "von Stille" "von Anhalt-Dessau" Knobelsdorf "von Rauch" "von Quernheimberg" Höltzendorff "von Quitzow" Cisielsky
 	Linkendorf
 	Ucklanski
 	Selasinky
-	"von Ziethen" Münchov
-	Briesen
+	"von Ziethen" Münchov Briesen
 	Riwotzki
 	Schnittern
-	"von Merckatz" "von Manstein" Schach
-	"von Seel" Treskaw
-	"von Hohenlohe" "von Rottenburg" Truxes
-	Kreytz
-	"von Rüts" "von Derfflinger" "von Wermsdorff" "von Hohenzollern" Below
-	"von Bimback" "von Mach" Posadofsky
-	"von Preußen" 
+	"von Merckatz" "von Manstein" Schach "von Seel" Treskaw "von Hohenlohe" "von Rottenburg" Truxes Kreytz
+	"von Rüts" "von Derfflinger" "von Wermsdorff" "von Hohenzollern" Below "von Bimback" "von Mach" Posadofsky "von Preußen" 
 }
 ship_names = { 
 	"Brandenburgischer Dragoner" "Charlotte Louise" "Churfürst von Brandenburg" "Churfürtstlische Liebjagd" "Churprinz von Brandenburg" "Clevesche Lindenbaum" "Die Sieben Provinzien" "Fliegender Drache" "Friedrich Carl" "Friedrich Wilhelm zu Pferde"
@@ -131,7 +119,7 @@ ship_names = {
 	Hyäne Jupiter Kronprinz Leopard Makarele Maria Mars Merkur Meteor Mohrian
 	Morian Mummelpot Musquito Natter Neptun Niobe Pallas Pax Pfeil Pierlepomp
 	Post Potsdam Prosperpina Rommelpot Rosenfelde Rover Salamander Schwalbe Seeritter Spandau
-	Sperber Stralsund Thetis Tiger Undine Vineta Wasserhund Wespe Wolkensäule
+	Sperber Stralsund Thetis Tiger Undine Vineta Wasserhund Wespe Wolkensäule 
 }
 army_names = { 
 	"Königliche Armee" 

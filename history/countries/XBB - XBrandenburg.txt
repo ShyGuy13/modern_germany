@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = western
 capital = 441
 primary_culture = culture_markish
-religion = protestant
+religion = reformed
