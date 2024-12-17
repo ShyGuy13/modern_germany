@@ -5,3 +5,4 @@ technology_group = western
 capital = 209
 primary_culture = culture_rhine_palatinian
 religion = catholic
+add_accepted_culture = culture_rhinish

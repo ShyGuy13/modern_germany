@@ -3,5 +3,5 @@ add_government_reform = parliamentary_republic_reform
 government_rank = 1
 technology_group = western
 capital = 461
-primary_culture = culture_franconian
+primary_culture = culture_frankish
 religion = catholic

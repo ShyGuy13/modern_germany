@@ -5,3 +5,4 @@ technology_group = western
 religion = reformed
 capital = 476
 primary_culture = culture_swabian
+add_accepted_culture = culture_allemannic
