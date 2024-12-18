@@ -1,0 +1,1006 @@
+brandenburg_gate = {
+	start = 431
+	date = 1444.01.01	# Real-life construction start
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+	build_trigger = {
+		always = yes
+	}
+	on_built = {
+	}
+	on_destroyed = {
+	}
+	can_use_modifiers_trigger = {
+		always = yes
+	}
+	can_upgrade_trigger = {
+		always = yes
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			local_manpower_modifier = 0.25
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			army_tradition = 0.25
+			prestige_from_land = 1
+			army_tradition_from_battle = 0.25
+			recover_army_morale_speed = 0.05
+		}
+		on_upgraded = {
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			local_manpower_modifier = 0.5
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			army_tradition = 0.5
+			prestige_from_land = 1
+			army_tradition_from_battle = 0.25
+			recover_army_morale_speed = 0.1
+		}
+		on_upgraded = {
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			local_manpower_modifier = 0.75
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			army_tradition = 1
+			prestige_from_land = 1
+			army_tradition_from_battle = 0.25
+			recover_army_morale_speed = 0.15
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+cologne_cathedral = {
+	start = 246
+	date = 1248.01.01	# Real-life completion date
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 1
+	type = monument
+	build_trigger = {
+		province_is_or_accepts_religion_group = {
+			religion_group = christian
+		}
+	}
+	on_built = {
+		show_ambient_object = cologne_cathedral
+	}
+	on_destroyed = {
+		hide_ambient_object = cologne_cathedral
+	}
+	can_use_modifiers_trigger = {
+		province_is_or_accepts_religion_group = {
+			religion_group = christian
+		}
+	}
+	can_upgrade_trigger = {
+		province_is_or_accepts_religion_group = {
+			religion_group = christian
+		}
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			global_missionary_strength = 0.01
+			reverse_relation_with_same_religion = 10
+		}
+		on_upgraded = {
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			global_missionary_strength = 0.02
+			missionaries = 1
+			reverse_relation_with_same_religion = 20
+			prestige = 0.5
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
+			}
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			global_missionary_strength = 0.03
+			missionaries = 1
+			reverse_relation_with_same_religion = 30
+			prestige = 1
+		}
+		on_upgraded = {
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
+			}
+		}
+	}
+}
+
+schloss_neuschwanstein = {
+	start = 382
+	date = 1444.01.01	# Construction start in real life
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+	build_trigger = {
+		always = yes
+	}
+	on_built = {
+	}
+	on_destroyed = {
+	}
+	can_use_modifiers_trigger = {
+		always = yes
+	}
+	can_upgrade_trigger = {
+		always = yes
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			local_defender_dice_roll_bonus = 1
+			local_defensiveness = 0.05
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+		on_upgraded = {
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			fort_level = 1
+			local_defender_dice_roll_bonus = 1
+		}
+		area_modifier = {
+			local_defensiveness = 0.05
+		}
+		country_modifiers = {
+			prestige = 0.25
+		}
+		on_upgraded = {
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			fort_level = 2
+		}
+		area_modifier = {
+			local_defensiveness = 0.1
+			local_defender_dice_roll_bonus = 1
+		}
+		country_modifiers = {
+			prestige = 0.5
+		}
+		on_upgraded = {
+		}
+	}
+}
+
+berlin_wall = {
+	start = 431
+	date = 1444.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+	build_trigger = {
+		always = yes
+	}
+	can_use_modifiers_trigger = {
+		always = yes
+	}
+	can_upgrade_trigger = {
+		always = yes
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			local_defensiveness = 0.05
+			local_fort_maintenance_modifier = -0.1
+			local_garrison_size = 0.1
+			local_hostile_attrition = 1
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			local_defensiveness = 0.1
+			local_fort_maintenance_modifier = -0.2
+			local_garrison_size = 0.2
+			local_hostile_attrition = 2
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			local_defensiveness = 0.2
+			local_fort_maintenance_modifier = -0.3
+			local_garrison_size = 0.3
+			local_hostile_attrition = 3
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+	}
+}
+
+speicherstadt = {
+	start = 493
+	date = 1444.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+	build_trigger = {
+		always = yes
+	}
+	can_use_modifiers_trigger = {
+		always = yes
+	}
+	can_upgrade_trigger = {
+		always = yes
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			trade_goods_size = 1
+			province_trade_power_modifier = 0.5
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			trade_goods_size = 1
+			province_trade_power_modifier = 0.5
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			trade_steering = 0.1
+			placed_merchant_power_modifier = 0.5
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+			trade_goods_size = 1
+			province_trade_power_modifier = 0.5
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			trade_steering = 0.2
+			merchants = 1
+			placed_merchant_power_modifier = 1
+		}
+	}
+}
+
+sanssouci = {
+	start = 441
+	date = 1444.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+	build_trigger = {
+		always = yes
+	}
+	can_use_modifiers_trigger = {
+		always = yes
+	}
+	can_upgrade_trigger = {
+		always = yes
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			monthly_splendor = 1
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			monthly_splendor = 1
+			advisor_cost = -0.1
+			prestige_decay = -0.01
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			monthly_splendor = 1
+			advisor_cost = -0.25
+			advisor_pool = 1
+			prestige_decay = -0.01
+		}
+	}
+}
+
+zeche_zollverein = {
+	start = 530
+	date = 1444.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+	build_trigger = {
+		trade_goods = coal
+	}
+	can_use_modifiers_trigger = {
+		trade_goods = coal
+	}
+	can_upgrade_trigger = {
+		trade_goods = coal
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+			trade_goods_size = 1
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+			trade_goods_size = 3
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 10000
+		}
+		province_modifiers = {
+			trade_goods_size = 3
+		}
+		area_modifier = {
+			trade_goods_size = 2
+		}
+		country_modifiers = {
+		}
+	}
+}
+
+uni_gottingen = {
+	start = 192
+	date = 1444.01.01
+	time = {
+		months = 0
+	}
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 0
+	type = monument
+	build_trigger = {
+		always = yes
+	}
+	can_use_modifiers_trigger = {
+		always = yes
+	}
+	can_upgrade_trigger = {
+		always = yes
+	}
+	keep_trigger = {
+	}
+	tier_0 = {
+		upgrade_time = {
+			months = 0
+		}
+		cost_to_upgrade = {
+			factor = 0
+		}
+		province_modifiers = {
+		}
+	}
+	tier_1 = {
+		upgrade_time = {
+			months = 120
+		}
+		cost_to_upgrade = {
+			factor = 1000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			yearly_innovativeness = 0.5
+		}
+	}
+	tier_2 = {
+		upgrade_time = {
+			months = 240
+		}
+		cost_to_upgrade = {
+			factor = 2500
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			yearly_innovativeness = 0.5
+			idea_cost = -0.1
+		}
+	}
+	tier_3 = {
+		upgrade_time = {
+			months = 480
+		}
+		cost_to_upgrade = {
+			factor = 5000
+		}
+		province_modifiers = {
+		}
+		area_modifier = {
+		}
+		country_modifiers = {
+			yearly_innovativeness = 0.5
+			idea_cost = -0.1
+			technology_cost = -0.1
+		}
+	}
+}
+
+aachener_dom = {
+	start = 248
+	date = 796.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 2
+	type = monument
+	build_trigger = { always = yes }
+	can_use_modifiers_trigger = { always = yes }
+	can_upgrade_trigger = { always = yes }
+	keep_trigger = {}
+
+	tier_0 = {
+		upgrade_time = { months = 0 }
+		cost_to_upgrade = { factor = 0 }
+		province_modifiers = {}
+	}
+
+	tier_1 = {
+		upgrade_time = { months = 120 }
+		cost_to_upgrade = { factor = 1000 }
+		province_modifiers = {
+ 
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			loyalty_change_on_revoked = 0.05
+		}
+	}
+	
+	tier_2 = {
+		upgrade_time = { months = 240 }
+		cost_to_upgrade = { factor = 2500 }
+		province_modifiers = {
+ 
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			loyalty_change_on_revoked = 0.05
+			global_unrest = -1
+		}
+	}
+	
+	tier_3 = {
+		upgrade_time = { months = 480 }
+		cost_to_upgrade = { factor = 5000 }
+		province_modifiers = {
+ 
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			loyalty_change_on_revoked = 0.05
+			global_unrest = -2
+			stability_cost_modifier = -0.2
+		}
+	}
+}
+
+bad_reichenhall_saline = {
+	start = 495
+	date = 696.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 1
+	type = monument
+	build_trigger = { trade_goods = salt }
+	can_use_modifiers_trigger = { trade_goods = salt }
+	can_upgrade_trigger = { trade_goods = salt }
+	keep_trigger = {}
+
+	tier_0 = {
+		upgrade_time = { months = 0 }
+		cost_to_upgrade = { factor = 0 }
+		province_modifiers = {}
+	}
+
+	tier_1 = {
+		upgrade_time = { months = 120 }
+		cost_to_upgrade = { factor = 1000 }
+		province_modifiers = {
+			trade_goods_size = 0.5
+			local_production_efficiency = 0.1
+			local_development_cost = -0.1
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+
+		}
+	}
+	
+	tier_2 = {
+		upgrade_time = { months = 240 }
+		cost_to_upgrade = { factor = 2500 }
+		province_modifiers = {
+			trade_goods_size = 2
+			local_production_efficiency = 0.25
+			local_development_cost = -0.15
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+
+		}
+	}
+	
+	tier_3 = {
+		upgrade_time = { months = 480 }
+		cost_to_upgrade = { factor = 5000 }
+		province_modifiers = {
+			trade_goods_size = 5
+			local_production_efficiency = 0.5
+			local_development_cost = -0.25
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+
+		}
+	}
+}
+
+varusschlachtfeld = {
+	start = 390
+	date = 9.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 3
+	type = monument
+	build_trigger = { always = yes }
+	can_use_modifiers_trigger = { always = yes }
+	can_upgrade_trigger = { always = yes }
+	keep_trigger = {}
+
+	tier_0 = {
+		upgrade_time = { months = 0 }
+		cost_to_upgrade = { factor = 0 }
+		province_modifiers = {}
+	}
+
+	tier_1 = {
+		upgrade_time = { months = 24 }
+		cost_to_upgrade = { factor = 200 }
+		province_modifiers = {
+ 
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			morale_damage = 0.01
+		}
+	}
+	
+	tier_2 = {
+		upgrade_time = { months = 60 }
+		cost_to_upgrade = { factor = 500 }
+		province_modifiers = {
+ 
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			morale_damage = 0.025
+		}
+	}
+	
+	tier_3 = {
+		upgrade_time = { months = 120 }
+		cost_to_upgrade = { factor = 1000 }
+		province_modifiers = {
+ 
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			morale_damage = 0.05
+		}
+	}
+}
+
+solingen_messer = {
+	start = 136
+	date = 1400.01.01
+	time = { months = 0 }
+	build_cost = 0
+	can_be_moved = no
+	move_days_per_unit_distance = 10
+	starting_tier = 1
+	type = monument
+	build_trigger = { always = yes }
+	can_use_modifiers_trigger = { always = yes }
+	can_upgrade_trigger = { always = yes }
+	keep_trigger = {}
+
+	tier_0 = {
+		upgrade_time = { months = 0 }
+		cost_to_upgrade = { factor = 0 }
+		province_modifiers = {}
+	}
+
+	tier_1 = {
+		upgrade_time = { months = 120 }
+		cost_to_upgrade = { factor = 1000 }
+		province_modifiers = {
+			local_tax_modifier = 0.1
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			shock_damage = 0.025
+		}
+	}
+	
+	tier_2 = {
+		upgrade_time = { months = 240 }
+		cost_to_upgrade = { factor = 2500 }
+		province_modifiers = {
+			local_tax_modifier = 0.3
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			shock_damage = 0.05
+		}
+	}
+	
+	tier_3 = {
+		upgrade_time = { months = 480 }
+		cost_to_upgrade = { factor = 5000 }
+		province_modifiers = {
+			local_tax_modifier = 0.6
+		}
+		area_modifier = {
+		
+		}
+
+		country_modifiers = {
+			shock_damage = 0.1
+		}
+	}
+}
