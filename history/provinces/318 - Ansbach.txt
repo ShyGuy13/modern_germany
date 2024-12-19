@@ -13,3 +13,7 @@ native_size = 30
 native_ferocity = 5
 native_hostileness = 3
 is_city = yes
+add_permanent_province_modifier = {
+	name = province_modifier_rothenburg_medieval_town
+	duration = -1
+}

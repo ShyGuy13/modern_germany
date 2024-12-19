@@ -13,3 +13,7 @@ native_ferocity = 5
 native_hostileness = 3
 is_city = yes
 add_core = XSH
+add_permanent_province_modifier = {
+	name = province_modifier_flensburg_rum_trade
+	duration = -1
+}

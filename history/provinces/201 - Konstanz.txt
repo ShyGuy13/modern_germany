@@ -14,3 +14,7 @@ native_ferocity = 5
 native_hostileness = 3
 is_city = yes
 center_of_trade = 1
+add_permanent_province_modifier = {
+	name = province_modifier_konstanz_lake_constance
+	duration = -1
+}

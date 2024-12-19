@@ -1,3 +1,392 @@
 province_modifier_bielefeld = {
-	trade_goods_size = 0.1
+	local_state_maintenance_modifier = -0.05
+	local_governing_cost_increase = -0.1
+}
+
+province_modifier_english_garden = {
+	local_unrest = -2
+}
+
+province_modifier_frankfurt_buchmesse = {
+	innovativeness_gain = 0.1
+	local_institution_spread = 0.5
+}
+
+province_modifier_reeperbahn = {
+	local_unrest = 1
+	local_tax_modifier = 0.3
+	province_trade_power_modifier = 0.1
+}
+
+province_modifier_cologne_carnival = {
+	local_culture_conversion_cost = 0.5
+	culture_conversion_cost = -0.1
+	culture_conversion_time = -0.25
+}
+
+province_modifier_heidelberg_historic_city_center = {
+	local_tax_modifier = 0.25
+}
+
+province_modifier_altbier = {
+	local_production_efficiency = 0.25
+}
+
+province_modifier_oktoberfest = {
+	local_tax_modifier = 0.25
+}
+
+province_modifier_bremer_stadtmusikanten = {
+	local_tax_modifier = 0.1
+	province_trade_power_modifier = 0.2
+	prestige = 0.25
+}
+
+province_modifier_wiesbaden_hot_springs = {
+	local_tax_modifier = 0.2
+	local_unrest = -1
+}
+
+province_modifier_regensburg_stone_bridge = {
+	province_trade_power_modifier = 0.15
+}
+
+province_modifier_berlin_museumsinsel = {
+	local_tax_modifier = 0.1
+}
+
+province_modifier_lubeck_hanseatic_city = {
+	province_trade_power_value = 5
+	province_trade_power_modifier = 0.1
+}
+
+province_modifier_dresden_art_and_architecture = {
+	prestige = 0.5
+	local_tax_modifier = 0.2
+}
+
+province_modifier_leipzig_music_heritage = {
+	monthly_splendor = 1
+	prestige_decay = -0.01
+}
+
+province_modifier_nuremberg_christkindlesmarkt = {
+	local_tax_modifier = 0.2
+	province_trade_power_modifier = 0.1
+}
+
+province_modifier_freiburg_sustainability = {
+	local_development_cost_modifier = -0.2
+	local_prosperity_growth = 0.1
+}
+
+province_modifier_bamberg_smoked_beer = {
+	local_production_efficiency = 0.2
+	local_tax_modifier = 0.1
+}
+
+province_modifier_trier_roman_heritage = {
+	local_tax_modifier = 0.2
+	local_institution_spread = 0.3
+}
+
+province_modifier_rothenburg_medieval_town = {
+	local_prosperity_growth = 0.1
+	local_tax_modifier = 0.2
+}
+
+province_modifier_mannheim_grid_city = {
+	build_cost = -0.2
+	build_time = -0.25
+}
+
+province_modifier_kassel_hesse_cultural_center = {
+	advisor_cost = -0.05
+	monthly_splendor = 1
+}
+
+province_modifier_weimar_bauhaus = {
+	local_development_cost_modifier = -0.2
+	local_tax_modifier = 0.1
+}
+
+province_modifier_garmisch_alpine_resort = {
+	local_manpower_modifier = 0.25
+	supply_limit_modifier = 0.33
+}
+
+province_modifier_passau_three_rivers = {
+	province_trade_power_modifier = 0.2
+	province_trade_power_value = 5
+}
+
+province_modifier_koblenz_german_corner = {
+	province_trade_power_value = 5
+	local_defensiveness = 0.1
+}
+
+province_modifier_mainz_gutenberg_legacy = {
+	innovativeness_gain = 0.1
+	advisor_cost = -0.15
+}
+
+province_modifier_hanover_herrenhausen_gardens = {
+	local_unrest = -1
+	local_tax_modifier = 0.1
+}
+
+province_modifier_bonn_beethoven_birthplace = {
+	monthly_splendor = 1
+	advisor_cost = -0.1
+}
+
+province_modifier_magdeburg_otto_heritage = {
+	prestige = 0.5
+	local_defensiveness = 0.2
+}
+
+province_modifier_erfurt_lutheran_history = {
+	local_missionary_strength = 0.01
+	local_religious_unity_contribution = 0.1
+}
+
+province_modifier_rugen_chalk_cliffs = {
+	trade_goods_size = 1
+	local_prosperity_growth = 0.1
+}
+
+province_modifier_osnabruck_city_of_peace = {
+	local_unrest = -4
+}
+
+province_modifier_cottbus_spreewald_culture = {
+	local_production_efficiency = 0.1
+	local_development_cost_modifier = -0.1
+}
+
+province_modifier_flensburg_rum_trade = {
+	province_trade_power_value = 5
+	province_trade_power_modifier = 0.1
+}
+
+province_modifier_bayreuth_wagner_festival = {
+	monthly_splendor = 1
+	prestige = 0.5
+}
+
+province_modifier_coburg_veste_castle = {
+	local_defensiveness = 0.33
+}
+
+province_modifier_ravensburg_board_game_trade = {
+	local_institution_spread = 0.25
+	province_trade_power_modifier = 0.1
+}
+
+province_modifier_meissen_porcelain_legacy = {
+	local_production_efficiency = 0.3
+	trade_goods_size = 1.5
+}
+
+province_modifier_gorlitz_architectural_jewel = {
+	local_prosperity_growth = 0.1
+	local_tax_modifier = 0.2
+}
+
+province_modifier_tubingen_academic_tradition = {
+	innovativeness_gain = 0.2
+	advisor_pool = 1
+}
+
+province_modifier_saarbrucken_coal_and_steel = {
+	production_efficiency = 0.2
+	local_production_efficiency = 0.1
+}
+
+province_modifier_kiel_canal_city = {
+	supply_limit_modifier = 0.25
+	province_trade_power_value = 5
+}
+
+province_modifier_augsburg_fugger_financial_power = {
+	local_tax_modifier = 0.25
+	local_production_efficiency = 0.15
+}
+
+province_modifier_paderborn_cathedral_city = {
+	local_missionary_strength = 0.01
+	local_tolerance_of_heathens = 2
+}
+
+province_modifier_halle_salt_production = {
+	trade_goods_size_modifier = 0.25
+	local_production_efficiency = 0.1
+}
+
+province_modifier_fulda_abbey_influence = {
+	local_missionary_strength = 0.01
+	prestige = 0.5
+}
+
+province_modifier_marburg_philosophy_and_science = {
+	advisor_pool = 1
+	innovativeness_gain = 0.1
+}
+
+province_modifier_elmshorn_canal_network = {
+	local_prosperity_growth = 0.1
+	province_trade_power_value = 5
+}
+
+province_modifier_weiden_iron_trade = {
+	trade_goods_size_modifier = 0.1
+	local_production_efficiency = 0.1
+}
+
+province_modifier_ingolstadt_defensive_academy = {
+	local_defender_dice_roll_bonus = 1
+	local_defensiveness = 0.2
+}
+
+province_modifier_trier_bishopric_influence = {
+	local_religious_unity_contribution = 0.1
+	prestige_decay = -0.01
+}
+
+province_modifier_zwickau_mining_heritage = {
+	local_production_efficiency = 0.2
+}
+
+province_modifier_wuppertal_schwebebahn = {
+	local_friendly_movement_speed = 0.25
+	build_cost = -0.1
+}
+
+province_modifier_chemnitz_industrial_heritage = {
+	production_efficiency = 0.15
+	build_time = -0.2
+}
+
+province_modifier_hildesheim_st_michaels_church = {
+	local_religious_unity_contribution = 0.5
+	local_prosperity_growth = 0.1
+}
+
+province_modifier_bautzen_sorbian_culture = {
+	culture_conversion_cost = -0.2
+	local_culture_conversion_cost = 0.5
+}
+
+province_modifier_worms_lutheran_reformation = {
+	local_missionary_strength = 0.02
+	prestige = 0.5
+}
+
+province_modifier_esslingen_medieval_markets = {
+	province_trade_power_modifier = 0.15
+	local_tax_modifier = 0.1
+}
+
+province_modifier_dortmund_beer_and_coal = {
+	local_production_efficiency = 0.2
+	local_tax_modifier = 0.1
+}
+
+province_modifier_hof_bavarian_textiles = {
+	local_production_efficiency = 0.3
+	trade_goods_size_modifier = 0.2
+}
+
+province_modifier_trier_wine_valleys = {
+	trade_goods_size = 1
+	local_tax_modifier = 0.15
+}
+
+province_modifier_konstanz_lake_constance = {
+	province_trade_power_value = 5
+	supply_limit_modifier = 0.2
+}
+
+province_modifier_siegen_iron_industry = {
+	trade_goods_size_modifier = 0.2
+	local_production_efficiency = 0.15
+}
+
+province_modifier_lindau_island_trading_hub = {
+	province_trade_power_value = 5
+	local_production_efficiency = 0.1
+}
+
+province_modifier_badenbaden_hot_springs = {
+	local_unrest = -1
+	local_tax_modifier = 0.1
+}
+
+province_modifier_aschaffenburg_castle_and_clergy = {
+	prestige = 0.5
+	local_missionary_strength = 0.01
+}
+
+province_modifier_kaiserslautern_palatinian_legacy = {
+	local_defensiveness = 0.2
+	local_tax_modifier = 0.1
+}
+
+province_modifier_aurich_north_sea_trade = {
+	province_trade_power_value = 5
+	province_trade_power_modifier = 0.1
+}
+
+province_modifier_braunschweig_hanseatic_legacy = {
+	province_trade_power_modifier = 0.2
+	prestige = 0.25
+}
+
+province_modifier_oldenburg_hanseatic_council = {
+	province_trade_power_value = 5
+	local_tax_modifier = 0.1
+}
+
+province_modifier_weimar_classical_germany = {
+	innovativeness_gain = 0.15
+	prestige_decay = -0.01
+}
+
+province_modifier_fulda_monastic_culture = {
+	local_religious_unity_contribution = 0.1
+	local_unrest = -1
+}
+
+province_modifier_naumburg_romanesque_cathedral = {
+	local_missionary_strength = 0.01
+	local_prosperity_growth = 0.1
+}
+
+province_modifier_regensburg_religious_diversity = {
+	local_tolerance_of_heathens = 3
+	local_tolerance_of_heretics = 3
+}
+
+province_modifier_saarlouis_fortress_city = {
+	local_defensiveness = 0.3
+	local_garrison_size = 0.2
+}
+
+province_modifier_bremerhaven_maritime_emigration = {
+	local_institution_spread = 0.5
+}
+
+province_modifier_duisburg_inland_port = {
+	province_trade_power_value = 5
+	supply_limit_modifier = 0.2
+}
+
+province_modifier_friedrichshafen_zeppelin_airships = {
+	local_development_cost_modifier = -0.1
+	production_efficiency = 0.1
+}
+
+province_modifier_herne_rhine_rhur_industry = {
+	production_efficiency = 0.25
+	build_cost = -0.1
 }

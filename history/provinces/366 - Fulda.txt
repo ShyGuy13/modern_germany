@@ -13,3 +13,11 @@ native_size = 30
 native_ferocity = 5
 native_hostileness = 3
 is_city = yes
+add_permanent_province_modifier = {
+	name = province_modifier_fulda_monastic_culture
+	duration = -1
+}
+add_permanent_province_modifier = {
+	name = province_modifier_fulda_abbey_influence
+	duration = -1
+}
