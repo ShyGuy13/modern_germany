@@ -1,0 +1,89 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_great_project_cologne_cathedral"	
+		texturefile = "gfx//interface//great_projects//great_project_cologne_cathedral.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_brandenburg_gate"	
+		texturefile = "gfx//interface//great_projects//great_project_brandenburg_gate.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_ulm_minster_great_project"	
+		texturefile = "gfx//interface//great_projects//great_project_ulm_minster.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_schloss_neuschwanstein"	
+		texturefile = "gfx//interface//great_projects//great_project_schloss_neuschwanstein.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_berlin_wall"	
+		texturefile = "gfx//interface//great_projects//great_project_berlin_wall.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_speicherstadt"	
+		texturefile = "gfx//interface//great_projects//great_project_speicherstadt.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_sanssouci"	
+		texturefile = "gfx//interface//great_projects//great_project_sanssouci.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_zeche_zollverein"	
+		texturefile = "gfx//interface//great_projects//great_project_zeche_zollverein.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_uni_gottingen"	
+		texturefile = "gfx//interface//great_projects//great_project_uni_gottingen.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_aachener_dom"	
+		texturefile = "gfx//interface//great_projects//great_project_aachener_dom.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_bad_reichenhall_saline"	
+		texturefile = "gfx//interface//great_projects//great_project_bad_reichenhall_saline.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_varusschlachtfeld"	
+		texturefile = "gfx//interface//great_projects//great_project_varusschlachtfeld.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_solingen_messer"	
+		texturefile = "gfx//interface//great_projects//great_project_solingen_messer.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_uni_heidelberg"	
+		texturefile = "gfx//interface//great_projects//great_project_uni_heidelberg.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_speyerer_dom"	
+		texturefile = "gfx//interface//great_projects//great_project_speyerer_dom.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_festung_marienberg"	
+		texturefile = "gfx//interface//great_projects//great_project_festung_marienberg.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_volkswagen_werk"	
+		texturefile = "gfx//interface//great_projects//great_project_volkswagen_werk.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_stuttgart_auto_industry"	
+		texturefile = "gfx//interface//great_projects//great_project_stuttgart_auto_industry.dds"
+	}
+
+}
