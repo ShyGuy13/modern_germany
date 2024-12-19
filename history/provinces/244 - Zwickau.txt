@@ -8,12 +8,12 @@ base_production = 3
 base_manpower = 3
 religion = reformed
 culture = culture_saxonian
-trade_goods = gems
+trade_goods = cloth
 native_size = 30
 native_ferocity = 5
 native_hostileness = 3
 is_city = yes
-add_permanent_province_modifier = {
+add_permanent_province_modifier = { 
 	name = province_modifier_zwickau_mining_heritage
 	duration = -1
 }

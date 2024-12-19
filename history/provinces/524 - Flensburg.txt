@@ -7,13 +7,13 @@ base_production = 1
 base_manpower = 1
 religion = protestant
 culture = culture_schleswigian
-trade_goods = fish
+trade_goods = naval_supplies
 native_size = 30
 native_ferocity = 5
 native_hostileness = 3
 is_city = yes
 add_core = XSH
-add_permanent_province_modifier = {
+add_permanent_province_modifier = { 
 	name = province_modifier_flensburg_rum_trade
 	duration = -1
 }

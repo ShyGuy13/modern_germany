@@ -8,12 +8,12 @@ base_production = 3
 base_manpower = 3
 religion = protestant
 culture = culture_rhinish
-trade_goods = grain
+trade_goods = iron
 native_size = 30
 native_ferocity = 5
 native_hostileness = 3
 is_city = yes
-add_permanent_province_modifier = {
+add_permanent_province_modifier = { 
 	name = province_modifier_siegen_iron_industry
 	duration = -1
 }

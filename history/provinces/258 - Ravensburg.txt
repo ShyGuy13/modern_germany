@@ -8,12 +8,12 @@ base_production = 3
 base_manpower = 3
 religion = catholic
 culture = culture_allemannic
-trade_goods = wine
+trade_goods = paper
 native_size = 30
 native_ferocity = 5
 native_hostileness = 3
 is_city = yes
-add_permanent_province_modifier = {
+add_permanent_province_modifier = { 
 	name = province_modifier_ravensburg_board_game_trade
 	duration = -1
 }
