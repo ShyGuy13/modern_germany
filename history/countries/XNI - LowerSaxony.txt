@@ -4,6 +4,6 @@ government_rank = 1
 technology_group = western
 capital = 230
 primary_culture = culture_elbian
-religion = protestant
+religion = catholic
 add_accepted_culture = culture_eastphalian
 add_accepted_culture = culture_westphalian

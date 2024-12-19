@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = western
 capital = 525
 primary_culture = culture_schleswigian
-religion = reformed
+religion = catholic

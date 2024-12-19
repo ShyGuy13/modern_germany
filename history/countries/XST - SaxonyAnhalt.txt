@@ -4,5 +4,5 @@ government_rank = 1
 technology_group = western
 capital = 395
 primary_culture = culture_saxonian
-religion = reformed
+religion = catholic
 add_accepted_culture = culture_eastphalian

@@ -1,815 +1,814 @@
 XBB_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		discipline = 0.05
+		land_forcelimit = 5
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		land_morale = 0.10
 	}
 
 	trigger = {
 		tag = XBB
 	}
 
-	athe_lone_star = {
+	ascendancy_of_the_elector = {
+		diplomatic_reputation = 1
+		improve_relation_modifier = 0.2
+	}
+
+	march_of_the_margraves = {
+		army_tradition = 1
+		hostile_attrition = 1
+	}
+
+	brandenburgian_militarism = {
+		discipline = 0.05
+		recover_army_morale_speed = 0.1
+	}
+
+	the_pragmatic_diplomat = {
+		diplomats = 1
+		diplomatic_upkeep = 1
+	}
+
+	the_taming_of_the_nobility = {
 		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+		global_autonomy = -0.05
 	}
 
-	acowboys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	the_great_reforms_of_joachim = {
+		governing_capacity = 100
+		state_governing_cost = -0.10
 	}
 
-	atexas_rangers = {
-		global_unrest = -1
-	}
-
-	aalamo = {
-		land_morale = 0.10
-	}
-
-	atx_space_industry = {
-		prestige = 1
-	}
-
-	ahigh_tech = {
-		innovativeness_gain = 0.5
-		production_efficiency = 0.1
-	}
-
-	abigger_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	strength_of_the_junker_class = {
+		land_maintenance_modifier = -0.10
+		manpower_recovery_speed = 0.10
 	}
 }
 
 XBE_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		innovativeness_gain = 0.5
+		development_cost = -0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		governing_capacity = 150
 	}
 
 	trigger = {
 		tag = XBE
 	}
 
-	bthe_lone_star = {
+	the_margravial_residence = {
+		legitimacy = 1
 		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
 	}
 
-	bcowboys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	a_hub_of_learning = {
+		technology_cost = -0.05
+		possible_adm_policy = 1
 	}
 
-	btexas_rangers = {
-		global_unrest = -1
+	fortress_city_of_the_spree = {
+		defensiveness = 0.2
+		fort_maintenance_modifier = -0.15
 	}
 
-	balamo = {
-		land_morale = 0.10
+	prussian_bureaucratic_excellence = {
+		advisor_cost = -0.1
+		monarch_admin_power = 1
 	}
 
-	btx_space_industry = {
-		prestige = 1
-	}
-
-	hbigh_tech = {
+	engine_of_the_enlightenment = {
+		global_institution_spread = 0.1
 		innovativeness_gain = 0.5
-		production_efficiency = 0.1
 	}
 
-	bbigger_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	capital_of_kings = {
+		global_tax_modifier = 0.1
+		prestige = 0.5
+	}
+
+	metropolis_of_modernity = {
+		production_efficiency = 0.1
+		trade_efficiency = 0.1
 	}
 }
 
 XBW_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		diplomatic_reputation = 1
+		global_trade_power = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		land_morale = 0.10
 	}
 
 	trigger = {
 		tag = XBW
 	}
 
-	cthe_lone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	swabian_league_legacy = {
+		defensiveness = 0.15
+		army_tradition = 1
 	}
 
-	ccowboys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	black_forest_infrastructure = {
+		build_cost = -0.10
+		build_time = -0.10
 	}
 
-	tcexas_rangers = {
-		global_unrest = -1
-	}
-
-	aclamo = {
-		land_morale = 0.10
-	}
-
-	tx_cspace_industry = {
-		prestige = 1
-	}
-
-	highc_tech = {
+	southern_german_renaissance = {
 		innovativeness_gain = 0.5
-		production_efficiency = 0.1
+		global_prov_trade_power_modifier = 0.1
 	}
 
-	bigcger_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	guardians_of_the_rhine = {
+		naval_forcelimit = 5
+		blockade_efficiency = 0.15
+	}
+
+	wurttembergian_reforms = {
+		governing_cost = -0.10
+		governing_capacity = 100
+	}
+
+	counter_reformation_stalwart = {
+		global_missionary_strength = 0.02
+		tolerance_own = 1
+	}
+
+	wealth_of_the_schwabenland = {
+		production_efficiency = 0.1
+		trade_efficiency = 0.1
 	}
 }
 
 XBY_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		tolerance_own = 1
+		global_tax_modifier = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		yearly_absolutism = 1
 	}
 
 	trigger = {
 		tag = XBY
 	}
 
-	the_flone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	legacy_of_the_wittelsbachs = {
+		legitimacy = 1
+		heir_chance = 0.5
 	}
 
-	cowfboys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	heart_of_the_holy_roman_empire = {
+		improve_relation_modifier = 0.2
+		diplomatic_reputation = 1
 	}
 
-	tefxas_rangers = {
+	bavarian_baroque = {
 		global_unrest = -1
+		religious_unity = 0.1
 	}
 
-	alafmo = {
-		land_morale = 0.10
+	the_landesdefension = {
+		land_forcelimit_modifier = 0.15
+		fort_maintenance_modifier = -0.15
 	}
 
-	tx_fspace_industry = {
-		prestige = 1
+	the_bavarian_reforms = {
+		governing_capacity = 150
+		state_governing_cost = -0.1
 	}
 
-	higfh_tech = {
-		innovativeness_gain = 0.5
+	counter_reformation_stronghold = {
+		global_missionary_strength = 0.02
+		papal_influence = 1
+	}
+
+	wealth_of_the_bavarian_plains = {
 		production_efficiency = 0.1
-	}
-
-	bigger_fin_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+		trade_efficiency = 0.1
 	}
 }
 
 XHB_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		global_trade_power = 0.1
+		naval_forcelimit_modifier = 0.15
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		trade_efficiency = 0.1
 	}
 
 	trigger = {
 		tag = XHB
 	}
 
-	thec_lone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	proud_member_of_the_hansa = {
+		embargo_efficiency = 0.25
+		privateer_efficiency = 0.2
 	}
 
-	cowbcoys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	masters_of_maritime_trade = {
+		light_ship_power = 5
+		light_ship_cost = -0.1
 	}
 
-	texasc_rangers = {
+	bremen_civic_independence = {
+		republican_tradition = 0.5
 		global_unrest = -1
 	}
 
-	alamoc = {
-		land_morale = 0.10
-	}
-
-	tx_spacce_industry = {
-		prestige = 1
-	}
-
-	highc_tech = {
-		innovativeness_gain = 0.5
+	the_wealth_of_the_weser = {
 		production_efficiency = 0.1
+		global_prov_trade_power_modifier = 0.1
 	}
 
-	biggcer_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	church_and_market_united = {
+		global_missionary_strength = 0.01
+		religious_unity = 0.1
+	}
+
+	hanseatic_diplomacy = {
+		diplomatic_reputation = 1
+		ae_impact = -0.1
+	}
+
+	prosperity_of_the_free_city = {
+		global_tax_modifier = 0.1
+		development_cost = -0.1
 	}
 }
 
 XHE_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		land_morale = 0.1
+		global_tax_modifier = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		discipline = 0.05
 	}
 
 	trigger = {
 		tag = XHE
 	}
 
-	the_lovne_star = {
+	the_landgraviate_legacy = {
+		legitimacy = 1
 		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
 	}
 
-	cowbvoys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	central_german_trade_routes = {
+		global_trade_power = 0.1
+		ae_impact = -0.1
 	}
 
-	texasv_rangers = {
+	hessen_military_reforms = {
+		reinforce_speed = 0.15
+		manpower_recovery_speed = 0.10
+	}
+
+	patronage_of_the_arts = {
+		prestige = 0.5
+		innovativeness_gain = 0.5
+	}
+
+	balanced_governance = {
+		governing_cost = -0.1
 		global_unrest = -1
 	}
 
-	alamvo = {
-		land_morale = 0.10
+	bastion_in_the_heart_of_germany = {
+		defensiveness = 0.2
+		hostile_attrition = 1
 	}
 
-	tx_spavce_industry = {
-		prestige = 1
-	}
-
-	high_tevch = {
-		innovativeness_gain = 0.5
-		production_efficiency = 0.1
-	}
-
-	biggerv_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	loyalty_to_the_holy_roman_empire = {
+		diplomatic_reputation = 1
+		improve_relation_modifier = 0.2
 	}
 }
 
 XHH_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		trade_efficiency = 0.15
+		global_tax_modifier = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		naval_forcelimit_modifier = 0.25
 	}
 
 	trigger = {
 		tag = XHH
 	}
 
-	the_loqne_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	hanseatic_trading_hub = {
+		global_trade_power = 0.2
+		trade_steering = 0.1
 	}
 
-	cowboqys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	free_city_governance = {
+		republican_tradition = 0.5
+		governing_cost = -0.1
 	}
 
-	texasq_rangers = {
-		global_unrest = -1
+	harbor_of_the_north = {
+		global_ship_trade_power = 0.2
+		global_ship_repair = 0.1
 	}
 
-	alamqo = {
-		land_morale = 0.10
+	defenses_of_the_elbe = {
+		defensiveness = 0.2
+		hostile_attrition = 1
 	}
 
-	tx_spaqce_industry = {
-		prestige = 1
+	masters_of_maritime_law = {
+		diplomatic_reputation = 1
+		diplomatic_upkeep = 1
 	}
 
-	high_qtech = {
-		innovativeness_gain = 0.5
+	hanseatic_bankers = {
+		interest = -1
 		production_efficiency = 0.1
 	}
 
-	biggerq_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	merchants_of_hamburg = {
+		merchants = 1
+		placed_merchant_power = 5
 	}
 }
 
-XMW_ideas = {
+XMV_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		trade_efficiency = 0.1
+		naval_forcelimit_modifier = 0.15
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		global_trade_power = 0.2
 	}
 
 	trigger = {
 		tag = XMV
 	}
 
-	the_lowne_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	legacy_of_the_hanseatic_league = {
+		embargo_efficiency = 0.25
+		privateer_efficiency = 0.2
 	}
 
-	cowboyws = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	baltic_maritime_traditions = {
+		naval_tradition_from_trade = 1
+		global_ship_cost = -0.10
 	}
 
-	texas_wrangers = {
-		global_unrest = -1
+	mecklenburgian_diplomacy = {
+		diplomatic_reputation = 1
+		diplomatic_upkeep = 1
 	}
 
-	alamwo = {
-		land_morale = 0.10
+	guardians_of_the_coast = {
+		fort_maintenance_modifier = -0.15
+		defensiveness = 0.10
 	}
 
-	tx_spwace_industry = {
-		prestige = 1
-	}
-
-	high_twech = {
-		innovativeness_gain = 0.5
+	fertile_lands_of_vorpommern = {
 		production_efficiency = 0.1
+		global_manpower_modifier = 0.1
 	}
 
-	biggerw_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	rebuilding_after_the_thirty_years_war = {
+		development_cost = -0.1
+		autonomy_change_time = -0.1
+	}
+
+	pillars_of_baltic_trade = {
+		placed_merchant_power_modifier = 0.2
+		trade_steering = 0.1
 	}
 }
 
 XNI_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		land_forcelimit_modifier = 0.15
+		production_efficiency = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		discipline = 0.05
 	}
 
 	trigger = {
 		tag = XNI
 	}
 
-	ther_lone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	hanseatic_trade_network = {
+		trade_efficiency = 0.1
+		embargo_efficiency = 0.15
 	}
 
-	cowbroys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	proud_lands_of_saxony = {
+		global_manpower_modifier = 0.10
+		manpower_recovery_speed = 0.1
 	}
 
-	texars_rangers = {
-		global_unrest = -1
+	protection_of_the_weser_and_elbe = {
+		naval_morale = 0.1
+		blockade_efficiency = 0.15
 	}
 
-	alarmo = {
+	farmlands_of_the_north = {
+		global_tax_modifier = 0.1
+		global_prosperity_growth = 0.1
+	}
+
+	north_german_independence = {
 		land_morale = 0.10
+		hostile_attrition = 1
 	}
 
-	txr_space_industry = {
-		prestige = 1
+	the_reformation_in_niedersachsen = {
+		religious_unity = 0.1
+		tolerance_own = 1
 	}
 
-	hirgh_tech = {
+	mechanical_innovators = {
+		development_cost = -0.1
 		innovativeness_gain = 0.5
-		production_efficiency = 0.1
-	}
-
-	biggrer_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
 	}
 }
 
 XNW_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		global_tax_modifier = 0.1
+		production_efficiency = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		land_forcelimit_modifier = 0.10
 	}
 
 	trigger = {
 		tag = XNW
 	}
 
-	the_ltone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	heart_of_the_rhine_trade = {
+		global_trade_power = 0.15
+		placed_merchant_power = 3
 	}
 
-	cowbotys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
-	}
-
-	texas_trangers = {
-		global_unrest = -1
-	}
-
-	alamto = {
-		land_morale = 0.10
-	}
-
-	tx_stpace_industry = {
+	cathedral_of_cologne = {
 		prestige = 1
+		global_missionary_strength = 0.02
 	}
 
-	higth_tech = {
+	cradle_of_industrialization = {
+		trade_goods_size = 0.1
+		production_efficiency = 0.2
+	}
+
+	rhenish_infrastructure = {
+		state_maintenance_modifier = -0.15
+		build_cost = -0.10
+	}
+
+	defenders_of_the_faith = {
+		tolerance_own = 1
+		papal_influence = 1
+	}
+
+	forges_of_the_ruhr = {
+		global_manpower_modifier = 0.15
+		land_maintenance_modifier = -0.1
+	}
+
+	german_cultural_heartland = {
 		innovativeness_gain = 0.5
-		production_efficiency = 0.1
-	}
-
-	biggert_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+		relation_with_same_culture_group = 15
 	}
 }
 
 XRP_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		global_prov_trade_power_modifier = 0.1
+		papal_influence = 1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		land_morale = 0.1
 	}
 
 	trigger = {
 		tag = XRP
 	}
 
-	the_lzone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	palace_of_charlemagne = {
+		legitimacy = 1
+		heir_chance = 0.5
 	}
 
-	cowbzoys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	guardians_of_the_rhine_trade = {
+		global_trade_power = 0.1
+		trade_efficiency = 0.1
 	}
 
-	texas_zrangers = {
-		global_unrest = -1
+	wine_of_the_rhine_valley = {
+		production_efficiency = 0.15
+		prestige = 0.5
 	}
 
-	alzamo = {
-		land_morale = 0.10
+	principality_of_trier = {
+		global_missionary_strength = 0.02
+		tolerance_own = 1
 	}
 
-	tx_spacez_industry = {
-		prestige = 1
+	palatinate_reforms = {
+		governing_capacity = 150
+		state_governing_cost = -0.1
 	}
 
-	highz_tech = {
-		innovativeness_gain = 0.5
-		production_efficiency = 0.1
+	centers_of_christianity = {
+		improve_relation_modifier = 0.2
+		diplomatic_reputation = 1
 	}
 
-	biggerz_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	castles_of_the_middle_rhine = {
+		defensiveness = 0.2
+		fort_maintenance_modifier = -0.1
 	}
 }
 
 XSH_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		naval_forcelimit_modifier = 0.15
+		diplomatic_reputation = 1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		naval_morale = 0.10
 	}
 
 	trigger = {
 		tag = XSH
 	}
 
-	the_lonue_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	duchy_of_the_seas = {
+		global_trade_power = 0.1
+		ship_trade_power_modifier = 5
 	}
 
-	cowbouys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	danish_german_bridge = {
+		improve_relation_modifier = 0.2
+		diplomatic_upkeep = 1
 	}
 
-	texasu_rangers = {
-		global_unrest = -1
+	hanseatic_heritage = {
+		trade_efficiency = 0.1
+		embargo_efficiency = 0.15
 	}
 
-	aluamo = {
-		land_morale = 0.10
+	ruler_of_the_marshlands = {
+		land_maintenance_modifier = -0.1
+		development_cost = -0.1
 	}
 
-	tx_supace_industry = {
-		prestige = 1
+	guardian_of_the_baltic = {
+		blockade_efficiency = 0.2
+		capture_ship_chance = 0.1
 	}
 
-	highu_tech = {
-		innovativeness_gain = 0.5
+	maritime_defenders = {
+		naval_attrition = -0.1
+		naval_morale_damage_received = -0.1
+	}
+
+	prosperity_of_the_duchy = {
 		production_efficiency = 0.1
-	}
-
-	biguger_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+		tax_income = 12
 	}
 }
 
 XSL_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		production_efficiency = 0.1
+		global_tax_modifier = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		discipline = 0.05
 	}
 
 	trigger = {
 		tag = XSL
 	}
 
-	the_lione_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
-	}
-
-	cowbioys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
-	}
-
-	texasi_rangers = {
-		global_unrest = -1
-	}
-
-	alamio = {
-		land_morale = 0.10
-	}
-
-	tx_sipace_industry = {
-		prestige = 1
-	}
-
-	highi_tech = {
-		innovativeness_gain = 0.5
+	basin_of_industry = {
+		global_trade_goods_size_modifier = 0.15
 		production_efficiency = 0.1
 	}
 
-	biggeir_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	borderland_diplomacy = {
+		diplomatic_reputation = 1
+		improve_relation_modifier = 0.2
+	}
+
+	pioneers_of_social_reform = {
+		monthly_reform_progress = 0.5
+		autonomy_change_time = -0.25
+	}
+
+	crossroads_of_europe = {
+		ae_impact = -0.1
+		embargo_efficiency = 0.1
+	}
+
+	saar_coalfields = {
+		production_efficiency = 0.1
+		yearly_corruption = -0.1
+	}
+
+	strategic_location = {
+		fort_maintenance_modifier = -0.15
+		defensiveness = 0.15
+	}
+
+	pride_of_industrialization = {
+		build_cost = -0.1
+		trade_efficiency = 0.1
 	}
 }
 
 XSN_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		diplomatic_reputation = 1
+		advisor_cost = -0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		land_morale = 0.10
 	}
 
 	trigger = {
 		tag = XSN
 	}
 
-	the_loneo_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	electorate_of_the_holy_roman_empire = {
+		legitimacy = 1
 	}
 
-	cowbooys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
-	}
-
-	texas_orangers = {
-		global_unrest = -1
-	}
-
-	alamoo = {
-		land_morale = 0.10
-	}
-
-	tx_space_oindustry = {
+	patronage_of_the_arts = {
+		innovativeness_gain = 0.5
 		prestige = 1
 	}
 
-	high_otech = {
-		innovativeness_gain = 0.5
-		production_efficiency = 0.1
+	cradle_of_the_reformation = {
+		global_missionary_strength = 0.02
+		religious_unity = 0.1
 	}
 
-	biggero_in_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	march_of_the_saxon_armies = {
+		discipline = 0.05
+		recover_army_morale_speed = 0.10
+	}
+
+	mining_wealth_of_the_erzgebirge = {
+		production_efficiency = 0.1
+		inflation_reduction = 0.1
+	}
+
+	saxon_administrative_reforms = {
+		governing_capacity = 150
+		state_governing_cost = -0.10
+	}
+
+	cultural_heart_of_germany = {
+		global_unrest = -1
+		tolerance_own = 1
 	}
 }
 
 XST_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		production_efficiency = 0.1
+		religious_unity = 0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		idea_cost = -0.1
 	}
 
 	trigger = {
 		tag = XST
 	}
 
-	the_plone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
-	}
-
-	cowbopys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
-	}
-
-	texas_rapngers = {
-		global_unrest = -1
-	}
-
-	alapmo = {
-		land_morale = 0.10
-	}
-
-	tx_sppace_industry = {
-		prestige = 1
-	}
-
-	high_tpech = {
+	lutheran_heritage = {
+		global_missionary_strength = 0.02
 		innovativeness_gain = 0.5
-		production_efficiency = 0.1
 	}
 
-	biggerp_inp_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	castles_of_the_elbe = {
+		fort_maintenance_modifier = -0.15
+		hostile_attrition = 1
+	}
+
+	flourishing_mines_and_agriculture = {
+		production_efficiency = 0.1
+		global_trade_goods_size_modifier = 0.1
+	}
+
+	academic_traditions = {
+		yearly_innovativeness = 0.25
+		institution_growth = 0.1
+	}
+
+	saxony_anhalt_administration = {
+		yearly_absolutism = 0.5
+		state_governing_cost = -0.1
+	}
+
+	guardians_of_the_elbe = {
+		diplomatic_reputation = 1
+		improve_relation_modifier = 0.2
+	}
+
+	schloss_dessau_and_bauhaus = {
+		development_cost = -0.1
+		innovativeness_gain = 0.5
 	}
 }
 
 XTH_ideas = {
 	free = yes
 	start = {
-		governing_capacity = 100
+		global_unrest = -1
+		idea_cost = -0.1
 	}
 
 	bonus = {
-		war_exhaustion = -0.05                  
+		monthly_reform_progress = 0.5
 	}
 
 	trigger = {
 		tag = XTH
 	}
 
-	the_kjlone_star = {
-		yearly_absolutism = 0.5
-		republican_tradition = 0.25
-		legitimacy = 0.5
-		horde_unity = 0.5
-		meritocracy = 0.5
-		devotion = 0.5
+	heart_of_the_reformation = {
+		global_missionary_strength = 0.02
+		tolerance_of_heretics_capacity = 1
 	}
 
-	cowbokjys = {
-		cavalry_cost = -0.10
-        cavalry_fire = 1
+	the_castles_of_thuringia = {
+		defensiveness = 0.15
+		garrison_size = 0.1
 	}
 
-	texaskjrangers = {
-		global_unrest = -1
+	thuringian_cultural_flourishing = {
+		innovativeness_gain = 0.5
+		production_efficiency = 0.05
 	}
 
-	alakjmo = {
-		land_morale = 0.10
+	the_universities_of_jena_and_erfurt = {
+		technology_cost = -0.05
+		advisor_pool = 1
 	}
 
-	txkj_space_industry = {
+	patrons_of_art_and_philosophy = {
+		yearly_innovativeness = 0.25
 		prestige = 1
 	}
 
-	high_kjtech = {
-		innovativeness_gain = 0.5
-		production_efficiency = 0.1
+	the_princes_of_saxe-thuringia = {
+		legitimacy = 1
+		governing_cost = -0.1
 	}
 
-	bigger_kjin_texas = {
-		core_creation = -0.2
-        governing_capacity_modifier = 0.1
+	guardians_of_the_german_heartland = {
+		land_forcelimit_modifier = 0.15
+		manpower_recovery_speed = 0.10
 	}
 }

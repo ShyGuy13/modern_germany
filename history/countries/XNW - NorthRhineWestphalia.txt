@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = western
 capital = 528
 primary_culture = culture_westphalian
-religion = reformed
+religion = catholic
