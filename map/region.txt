@@ -94,7 +94,7 @@ region_sh = {
 	areas = {
 		area_holstein_south
 		area_holstein_north
-		area_sleswig
+		area_schleswig
 	}
 }
 
